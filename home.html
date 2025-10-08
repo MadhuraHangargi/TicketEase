@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="container my-4">
+
+  <!-- Header row with title left, stats right -->
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+      <h1 class="fw-bold text-dark">TicketEase Enterprise</h1>
+      <p class="text-muted">Demo dashboard — charts, quick stats, recent tickets.</p>
+    </div>
+
+    <!-- Quick Stats stays on right -->
+    <div class="card card-soft p-3 shadow-sm" style="min-width:220px;">
+      <h5 class="fw-bold mb-2">Quick Stats</h5>
+      <p class="mb-1">Total: <strong>{{ stats.total }}</strong></p>
+      <p class="mb-1 text-warning">Open: <strong>{{ stats.open }}</strong></p>
+      <p class="mb-1 text-success">Closed: <strong>{{ stats.closed }}</strong></p>
+    </div>
+  </div>
+
+    <!-- Charts Row -->
+  <div class="row g-3 mb-4">
+    <div class="col-md-6">
+      <div class="card card-soft p-3" style="height: 400px;">
+        <h6>Tickets by Priority</h6>
+        <canvas id="priorityChart" style="max-height: 320px;"></canvas>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card card-soft p-3" style="height: 400px;">
+        <h6>Open vs Closed</h6>
+        <canvas id="statusChart" style="max-height: 320px;"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recent Tickets Table -->
+  <div class="card card-soft p-3">
+    <h5>Recent tickets</h5>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Employee</th>
+          <th>Issue</th>
+          <th>Category</th>
+          <th>Priority</th>
+          <th>Status</th>
+          <th>Created</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for t in recent %}
+        <tr>
+          <td>{{ t.ticket_id }}</td>
+          <td>{{ t.employee_name }}</td>
+          <td>{{ t.issue }}</td>
+          <td>{{ t.issue_category }}</td>
+          <td>{{ t.priority }}</td>
+          <td>{{ t.status }}</td>
+          <td>{{ t.created_at }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Charts -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+const prCounts = JSON.parse('{{ pr_counts|safe }}');
+
+new Chart(document.getElementById('priorityChart'), {
+  type: 'doughnut',
+  data: {
+    labels: Object.keys(prCounts),
+    datasets: [{
+      data: Object.values(prCounts),
+      backgroundColor: ['#ff6384','#ffcd56','#36a2eb','#9966ff']
+    }]
+  },
+  options: {
+    plugins: { legend: { position: 'bottom' } }
+  }
+});
+
+fetch('/api/tickets/summary')
+  .then(r=>r.json()).then(data=>{
+    new Chart(document.getElementById('statusChart'), {
+      type: 'bar',
+      data: {
+        labels: Object.keys(data.status),
+        datasets: [{
+          label: 'Tickets',
+          data: Object.values(data.status),
+          backgroundColor: '#36a2eb'
+        }]
+      }
+    });
+  });
+</script>
+
+{% endblock %}

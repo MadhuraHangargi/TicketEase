@@ -1,0 +1,45 @@
+{% extends 'base.html' %}{% block content %}
+<div class="card card-soft p-3">
+  {% if ticket %}
+    <div class="d-flex justify-content-between">
+      <div><h4>Ticket #{{ ticket.ticket_id }}</h4><div class="text-muted">Created: {{ ticket.created_at }}</div></div>
+      <div class="text-end"><span class="badge {% if ticket.priority=='Critical' %}badge-critical{% elif ticket.priority=='High' %}badge-high{% elif ticket.priority=='Medium' %}badge-medium{% else %}badge-low{% endif %} p-2">{{ ticket.priority }}</span></div>
+    </div>
+    <hr>
+    <p><strong>Employee:</strong> {{ ticket.employee_name }}</p>
+    <p><strong>Issue:</strong> {{ ticket.issue }}</p>
+    <p><strong>Category:</strong> {{ ticket.issue_category }}</p>
+    <p><strong>Status:</strong> {{ ticket.status }}</p>
+    <hr>
+    <h6>Attachments</h6>
+    <form action="{{ url_for('upload_file', ticket_id=ticket.ticket_id) }}" method="post" enctype="multipart/form-data" class="mb-3">
+      <div class="d-flex gap-2">
+        <input type="text" name="uploader" placeholder="Your name" class="form-control" style="max-width:220px;">
+        <input type="file" name="file" class="form-control">
+        <button class="btn btn-secondary">Upload</button>
+      </div>
+    </form>
+    <ul>
+      {% for a in attachments %}
+        <li><a href="{{ url_for('uploaded_file', filename=a.file_path) }}">{{ a.file_name }}</a> <small class="text-muted">({{ a.uploaded_at }})</small></li>
+      {% else %}
+        <li class="text-muted">No attachments.</li>
+      {% endfor %}
+    </ul>
+    <hr>
+    <h6>Change Status</h6>
+    <form action="{{ url_for('change_status', ticket_id=ticket.ticket_id) }}" method="post" class="d-flex gap-2 align-items-center">
+      <select name="new_status" class="form-select" style="max-width:240px;">
+        <option value="Open" {% if ticket.status=='Open' %}selected{% endif %}>Open</option>
+        <option value="In Progress" {% if ticket.status=='In Progress' %}selected{% endif %}>In Progress</option>
+        <option value="Resolved" {% if ticket.status=='Resolved' %}selected{% endif %}>Resolved</option>
+        <option value="Closed" {% if ticket.status=='Closed' %}selected{% endif %}>Closed</option>
+      </select>
+      <button class="btn btn-primary" type="submit">Update Status</button>
+    </form>
+
+  {% else %}
+    <h4>Ticket not found</h4>
+  {% endif %}
+</div>
+{% endblock %}

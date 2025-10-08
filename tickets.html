@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card card-soft p-3">
+  <h4 class="mb-3">Tickets</h4>
+  <div class="table-responsive">
+    <table id="dt" class="table table-striped table-hover" style="width:100%">
+      <thead class="table-dark">
+        <tr>
+          <th>ID</th><th>Employee</th><th>Issue</th><th>Category</th><th>Priority</th><th>Status</th><th>Created</th><th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for t in tickets %}
+        <tr id="row-{{ t.ticket_id }}">
+          <td><a href="{{ url_for('ticket_detail', ticket_id=t.ticket_id) }}">{{ t.ticket_id }}</a></td>
+          <td>{{ t.employee_name }}</td>
+          <td style="max-width:320px; white-space:normal;">{{ t.issue }}</td>
+          <td>{{ t.issue_category }}</td>
+          <td>{{ t.priority }}</td>
+          <td class="status-col">{{ t.status }}</td>
+          <td>{{ t.created_at }}</td>
+          <td>
+            <div class="d-flex gap-1">
+              <select class="form-select form-select-sm status-select" data-ticket="{{ t.ticket_id }}" style="min-width:150px;">
+                <option value="Open" {% if t.status=='Open' %}selected{% endif %}>Open</option>
+                <option value="In Progress" {% if t.status=='In Progress' %}selected{% endif %}>In Progress</option>
+                <option value="Resolved" {% if t.status=='Resolved' %}selected{% endif %}>Resolved</option>
+                <option value="Closed" {% if t.status=='Closed' %}selected{% endif %}>Closed</option>
+              </select>
+              <button class="btn btn-sm btn-primary btn-update" data-ticket="{{ t.ticket_id }}">Update</button>
+            </div>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+$(document).ready(function(){
+  // initialize datatable
+  const table = $('#dt').DataTable({
+    pageLength: 25,
+    order: [[0,'desc']],
+    lengthChange: false
+  });
+
+  // delegated event to handle update (works with DataTables pagination)
+  $(document).on('click', '.btn-update', function(){
+    const btn = $(this);
+    const ticketId = btn.data('ticket');
+    const sel = $('select.status-select[data-ticket="'+ticketId+'"]');
+    const newStatus = sel.val();
+
+    btn.prop('disabled', true).text('Updating...');
+
+    fetch(`/ticket/${ticketId}/status`, {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'X-Requested-With': 'XMLHttpRequest',   // tell server it's AJAX
+    'Accept': 'application/json'
+  },
+  body: new URLSearchParams({ new_status: newStatus })
+})
+.then(async resp => {
+  const text = await resp.text(); // read raw text to help debug
+  let data = null;
+  try { data = JSON.parse(text); } catch(e) { /* not JSON */ }
+  if (!resp.ok) {
+    // show server error message if provided by JSON or raw HTML
+    const msg = (data && data.error) ? data.error : (text || resp.statusText);
+    throw new Error(msg);
+  }
+  // resp.ok and either JSON data or plain success
+  return data || { success: true };
+})
+.then(data => {
+  // update the status cell on the tickets table
+  $(`#row-${ticketId} .status-col`).text(newStatus);
+  try {
+    const rowNode = document.querySelector(`#row-${ticketId}`);
+    const colIndex = table.column('.status-col').index();
+    if (rowNode && (colIndex !== undefined && colIndex !== null)) table.cell(rowNode, colIndex).data(newStatus).draw(false);
+  } catch(e) { table.draw(false); }
+
+  // update quick stats on the dashboard (if present)
+  if (window.updateDashboardCounts) {
+    window.updateDashboardCounts(); // function we will add below
+  }
+
+  // success feedback
+  const a = $(`<div class="alert alert-success mt-2">Status updated to ${newStatus} for ticket ${ticketId}</div>`);
+  $('body').prepend(a); setTimeout(()=> a.fadeOut(900, ()=> a.remove()), 2200);
+})
+.catch(err => {
+  const a = $(`<div class="alert alert-danger mt-2">Update failed: ${err.message}</div>`);
+  $('body').prepend(a); setTimeout(()=> a.fadeOut(900, ()=> a.remove()), 3000);
+  console.error('Update error:', err);
+})
+.finally(()=> { btn.prop('disabled', false).text('Update'); });
+
+
+  });
+});
+</script>
+{% endblock %}

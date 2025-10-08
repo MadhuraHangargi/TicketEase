@@ -1,0 +1,39 @@
+{% extends 'base.html' %}{% block content %}
+<div class="card card-soft p-4">
+  <h4><i class="fa fa-plus-circle"></i> Create New Ticket</h4>
+  {% if message %}<div class="alert alert-info">{{ message }}</div>{% endif %}
+  <form method="post">
+    <div class="mb-3">
+      <label class="form-label">Issue</label>
+      <input id="issue" type="text" name="issue" class="form-control form-control-lg" required>
+    </div>
+    <div class="row mb-3">
+      <div class="col-md-8">
+        <label class="form-label">Employee Name</label>
+        <input type="text" name="employee" class="form-control" required>
+      </div>
+      <div class="col-md-4">
+        <label class="form-label">Role</label>
+        <select name="role" class="form-select">
+          <option value="customer">Customer</option>
+          <option value="support_agent">Support Agent</option>
+          <option value="admin">Admin</option>
+          <option value="vip">VIP</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="mb-3">
+      <label>Predicted</label>
+      <div class="p-2 card-soft"><div><strong>Category:</strong> <span id="pred-cat">—</span></div><div><strong>Priority:</strong> <span id="pred-prio">—</span></div></div>
+    </div>
+
+    <div class="d-flex justify-content-end"><button class="btn btn-primary btn-lg">Submit Ticket</button></div>
+  </form>
+</div>
+
+<script>
+function classifyClient(text){ text=(text||'').toLowerCase(); let base='Low'; if (['server down','vpn','crash','outage','database'].some(w=>text.includes(w))) base='Critical'; else if (['error','failed','denied','timeout','slow'].some(w=>text.includes(w))) base='High'; else if (['not working','problem','issue','trouble','setup','install','config'].some(w=>text.includes(w))) base='Medium'; else base='Low'; let cat='Other IT'; if (text.includes('password')||text.includes('login')||text.includes('access')) cat='Access'; else if (text.includes('email')) cat='Email'; else if (text.includes('printer')) cat='Printer'; else if (text.includes('network')||text.includes('wifi')) cat='Network'; else if (text.includes('database')||text.includes('db')) cat='Database'; return {cat,base}; }
+$('#issue').on('input', ()=>{const r=classifyClient($('#issue').val()); $('#pred-cat').text(r.cat); $('#pred-prio').text(r.base);});
+</script>
+{% endblock %}
