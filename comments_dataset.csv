@@ -1,0 +1,1001 @@
+ticket_id,user_id,message,created_at
+97,21,Hardware replacement scheduled,20-01-2025 04:29
+384,41,Password reset request,17-05-2025 01:10
+8,8,Application crash reported,14-06-2025 18:09
+44,45,Resolved and closed,31-03-2025 00:33
+233,8,Network connectivity issue,06-07-2025 05:31
+133,27,Issue reported,28-01-2025 05:53
+246,42,Issue reported,12-06-2025 12:45
+128,6,User confirmed resolution,06-03-2025 16:07
+386,21,Acknowledged and working,23-05-2025 08:10
+430,39,Investigating the root cause,09-06-2025 00:40
+107,44,Patch deployed successfully,03-02-2025 14:43
+13,26,Issue reported,20-05-2025 16:41
+294,14,Resolved and closed,01-04-2025 10:17
+269,49,Access rights updated,13-06-2025 13:24
+372,19,Access rights updated,02-02-2025 09:28
+355,35,System is slow,11-04-2025 19:08
+309,31,Hardware replacement scheduled,09-07-2025 16:41
+164,46,User confirmed resolution,10-06-2025 09:04
+360,11,Network connectivity issue,03-03-2025 02:37
+5,10,User confirmed resolution,28-03-2025 05:58
+120,7,Patch deployed successfully,09-05-2025 22:21
+157,34,Monitoring for stability,28-06-2025 08:18
+209,48,Monitoring for stability,28-04-2025 06:45
+359,3,Access rights updated,06-02-2025 07:06
+2,32,Monitoring for stability,10-06-2025 10:12
+373,33,Access rights updated,16-06-2025 23:57
+29,4,Monitoring for stability,20-06-2025 16:08
+183,32,Escalated to higher support,06-01-2025 21:58
+435,9,Investigating the root cause,25-01-2025 07:40
+237,48,Access rights updated,29-01-2025 09:55
+289,40,Monitoring for stability,02-04-2025 08:10
+414,8,Monitoring for stability,14-04-2025 22:34
+111,20,Application crash reported,08-04-2025 00:03
+340,21,System is slow,08-01-2025 15:00
+81,28,System is slow,20-02-2025 10:37
+445,32,Issue reported,08-04-2025 03:37
+417,43,Resolved and closed,20-06-2025 10:29
+320,27,Investigating the root cause,24-04-2025 00:10
+264,16,Investigating the root cause,16-07-2025 05:23
+94,21,Patch deployed successfully,06-07-2025 20:20
+264,4,Monitoring for stability,19-05-2025 00:46
+251,17,Resolved and closed,15-03-2025 21:22
+234,31,System is slow,17-04-2025 20:41
+395,18,Application crash reported,05-05-2025 09:21
+145,37,Investigating the root cause,08-04-2025 02:11
+224,22,System is slow,19-03-2025 05:15
+272,31,Issue reported,24-05-2025 17:56
+110,38,Acknowledged and working,02-05-2025 11:43
+227,47,Acknowledged and working,10-02-2025 22:43
+314,33,Escalated to higher support,30-05-2025 05:10
+224,6,System is slow,12-07-2025 10:35
+365,30,Hardware replacement scheduled,24-06-2025 12:57
+433,19,Access rights updated,19-02-2025 17:56
+125,11,Resolved and closed,20-06-2025 06:43
+448,25,User confirmed resolution,23-05-2025 06:17
+383,23,Password reset request,11-01-2025 15:55
+20,23,Issue reported,18-01-2025 03:47
+323,46,Password reset request,20-04-2025 17:42
+433,16,Patch deployed successfully,29-05-2025 13:35
+470,2,Application crash reported,01-04-2025 06:04
+354,13,Network connectivity issue,03-04-2025 19:39
+54,4,Network connectivity issue,06-03-2025 17:58
+204,25,Escalated to higher support,15-01-2025 11:43
+304,17,Database query taking too long,06-01-2025 00:53
+486,47,Investigating the root cause,04-04-2025 01:17
+164,36,Network connectivity issue,02-03-2025 20:45
+448,33,Patch deployed successfully,06-06-2025 23:59
+413,42,Access rights updated,02-01-2025 23:22
+121,47,Hardware replacement scheduled,19-01-2025 02:25
+434,12,Issue reported,13-07-2025 14:32
+294,15,Password reset request,10-07-2025 05:02
+61,12,Issue reported,23-01-2025 16:34
+120,18,Access rights updated,17-06-2025 06:23
+165,24,Monitoring for stability,30-01-2025 00:32
+136,21,Application crash reported,27-03-2025 16:40
+319,20,Hardware replacement scheduled,27-04-2025 11:48
+136,27,Hardware replacement scheduled,06-04-2025 22:09
+64,16,Password reset request,25-06-2025 14:59
+485,24,Hardware replacement scheduled,04-01-2025 19:08
+238,28,Escalated to higher support,10-01-2025 18:25
+416,13,Resolved and closed,03-02-2025 19:47
+116,13,Escalated to higher support,06-01-2025 17:41
+1,28,Monitoring for stability,26-01-2025 04:53
+60,23,Hardware replacement scheduled,05-07-2025 13:59
+491,22,Hardware replacement scheduled,16-06-2025 10:05
+444,19,Monitoring for stability,27-01-2025 06:41
+243,16,User confirmed resolution,09-07-2025 16:16
+398,30,Escalated to higher support,28-05-2025 02:41
+57,20,Access rights updated,15-02-2025 16:14
+322,32,Monitoring for stability,14-04-2025 11:11
+43,28,User confirmed resolution,18-01-2025 23:29
+412,47,Issue reported,22-01-2025 02:08
+410,20,Acknowledged and working,19-05-2025 23:28
+411,41,Escalated to higher support,18-03-2025 02:22
+219,12,Access rights updated,11-07-2025 00:56
+348,5,Investigating the root cause,07-07-2025 06:34
+376,29,System is slow,22-06-2025 01:42
+399,9,Resolved and closed,01-05-2025 15:44
+326,22,Monitoring for stability,07-03-2025 22:30
+405,47,Hardware replacement scheduled,11-06-2025 07:35
+262,30,Monitoring for stability,12-06-2025 12:35
+79,29,Network connectivity issue,31-05-2025 21:33
+454,21,Password reset request,19-03-2025 20:55
+163,7,Application crash reported,19-05-2025 09:13
+42,2,Access rights updated,19-03-2025 12:58
+291,36,Escalated to higher support,12-01-2025 12:43
+275,33,Acknowledged and working,01-02-2025 04:32
+64,35,Patch deployed successfully,11-05-2025 22:44
+288,47,Database query taking too long,12-05-2025 00:45
+170,33,Access rights updated,08-05-2025 12:11
+421,38,System is slow,27-02-2025 02:30
+236,36,Network connectivity issue,04-05-2025 22:11
+333,18,Application crash reported,04-06-2025 04:30
+354,6,Database query taking too long,22-02-2025 08:16
+12,50,Network connectivity issue,24-06-2025 23:55
+11,18,Acknowledged and working,15-04-2025 14:09
+343,41,Issue reported,18-01-2025 07:16
+377,37,Resolved and closed,18-05-2025 05:17
+244,46,Monitoring for stability,09-06-2025 09:43
+330,14,Monitoring for stability,28-02-2025 19:22
+490,11,Issue reported,21-05-2025 20:02
+187,24,Access rights updated,22-05-2025 00:29
+113,9,Application crash reported,12-02-2025 02:10
+217,49,Acknowledged and working,09-07-2025 22:21
+445,9,Monitoring for stability,03-03-2025 05:35
+468,23,Database query taking too long,30-06-2025 07:26
+356,34,Patch deployed successfully,14-01-2025 04:22
+212,12,Monitoring for stability,24-05-2025 15:59
+162,35,System is slow,24-02-2025 14:05
+62,26,Hardware replacement scheduled,17-06-2025 23:02
+394,33,Network connectivity issue,10-04-2025 09:15
+386,10,Database query taking too long,20-06-2025 14:30
+396,32,Network connectivity issue,13-06-2025 04:43
+385,32,Database query taking too long,27-03-2025 05:12
+294,30,Network connectivity issue,12-06-2025 04:30
+46,18,Issue reported,06-03-2025 07:52
+128,6,Database query taking too long,25-03-2025 16:36
+154,47,Resolved and closed,02-01-2025 13:13
+17,20,Patch deployed successfully,05-07-2025 02:50
+233,35,Resolved and closed,27-05-2025 15:52
+415,31,Hardware replacement scheduled,23-03-2025 12:40
+196,22,Resolved and closed,02-04-2025 19:07
+11,11,Application crash reported,26-04-2025 16:49
+401,40,Network connectivity issue,31-05-2025 22:12
+256,22,System is slow,23-05-2025 04:19
+468,38,Password reset request,02-03-2025 10:40
+8,9,Acknowledged and working,15-02-2025 12:33
+89,9,Application crash reported,14-01-2025 13:44
+18,33,Access rights updated,04-07-2025 16:13
+54,9,Acknowledged and working,02-07-2025 15:32
+294,44,Acknowledged and working,12-03-2025 19:45
+402,7,Password reset request,24-06-2025 18:55
+289,35,System is slow,28-06-2025 02:45
+335,39,Resolved and closed,17-01-2025 16:37
+451,44,Access rights updated,14-02-2025 10:10
+321,17,Issue reported,09-05-2025 03:07
+318,40,System is slow,13-05-2025 11:14
+144,24,Monitoring for stability,28-01-2025 01:00
+480,40,Resolved and closed,08-05-2025 12:04
+180,19,Password reset request,13-07-2025 09:32
+162,39,Hardware replacement scheduled,10-05-2025 20:24
+315,43,Resolved and closed,19-02-2025 12:48
+297,50,Patch deployed successfully,15-03-2025 20:01
+459,23,System is slow,24-02-2025 04:57
+42,21,Monitoring for stability,31-01-2025 11:13
+117,36,Application crash reported,19-07-2025 03:19
+143,34,Acknowledged and working,23-05-2025 04:29
+479,16,Application crash reported,22-02-2025 13:04
+369,38,Resolved and closed,01-02-2025 03:18
+13,8,Patch deployed successfully,13-02-2025 01:35
+338,39,Issue reported,01-02-2025 21:19
+101,40,Patch deployed successfully,08-04-2025 01:26
+465,41,Resolved and closed,12-04-2025 21:58
+441,27,Investigating the root cause,22-02-2025 02:13
+206,5,Network connectivity issue,09-01-2025 10:28
+78,18,Resolved and closed,25-02-2025 10:33
+478,25,Password reset request,19-06-2025 14:44
+256,20,System is slow,08-07-2025 07:30
+380,45,Network connectivity issue,12-04-2025 12:49
+333,18,Application crash reported,12-07-2025 01:33
+1,26,Application crash reported,09-04-2025 12:53
+141,43,Resolved and closed,08-01-2025 23:23
+39,19,User confirmed resolution,29-01-2025 08:54
+120,40,Escalated to higher support,19-02-2025 18:05
+194,8,System is slow,21-05-2025 21:29
+318,1,Investigating the root cause,05-03-2025 19:38
+489,28,Network connectivity issue,09-05-2025 14:31
+386,28,User confirmed resolution,17-06-2025 01:17
+144,40,Patch deployed successfully,19-04-2025 16:32
+371,40,Patch deployed successfully,18-04-2025 18:28
+88,34,Resolved and closed,15-02-2025 18:23
+437,48,Monitoring for stability,24-01-2025 11:14
+399,30,System is slow,14-05-2025 19:14
+398,3,Issue reported,14-05-2025 02:05
+411,22,Network connectivity issue,08-05-2025 05:30
+453,45,Monitoring for stability,19-06-2025 05:42
+143,29,Monitoring for stability,17-07-2025 23:47
+487,1,Database query taking too long,01-06-2025 15:27
+427,17,Investigating the root cause,02-05-2025 00:34
+239,27,Monitoring for stability,11-07-2025 21:54
+383,9,User confirmed resolution,21-03-2025 18:48
+43,25,Network connectivity issue,01-01-2025 16:16
+370,3,Investigating the root cause,10-05-2025 09:47
+354,11,Application crash reported,18-03-2025 08:16
+409,38,Resolved and closed,14-04-2025 10:51
+99,28,Monitoring for stability,08-01-2025 21:29
+119,17,Investigating the root cause,22-06-2025 01:22
+133,20,Access rights updated,16-07-2025 07:19
+415,5,Hardware replacement scheduled,25-02-2025 09:14
+7,47,Network connectivity issue,03-06-2025 18:41
+203,29,Monitoring for stability,25-03-2025 18:01
+169,2,User confirmed resolution,20-04-2025 10:55
+113,20,Escalated to higher support,11-07-2025 16:32
+76,7,Investigating the root cause,26-05-2025 07:10
+82,26,Database query taking too long,11-07-2025 18:46
+91,50,Database query taking too long,14-04-2025 20:59
+325,9,Hardware replacement scheduled,03-06-2025 21:02
+393,19,Patch deployed successfully,22-03-2025 14:51
+345,5,Database query taking too long,27-02-2025 23:37
+492,1,Investigating the root cause,03-06-2025 04:33
+97,34,Password reset request,23-05-2025 12:53
+462,7,Network connectivity issue,11-06-2025 22:13
+362,45,Application crash reported,11-07-2025 23:33
+162,47,User confirmed resolution,01-06-2025 16:34
+392,20,Access rights updated,12-03-2025 09:23
+156,7,Password reset request,10-07-2025 20:31
+210,41,Password reset request,20-04-2025 14:11
+35,24,System is slow,03-02-2025 23:57
+320,19,Patch deployed successfully,01-07-2025 03:36
+456,12,Monitoring for stability,29-01-2025 12:27
+394,13,Access rights updated,30-04-2025 19:36
+390,26,Database query taking too long,08-03-2025 18:36
+388,37,Database query taking too long,21-03-2025 05:29
+317,34,System is slow,15-03-2025 21:39
+85,11,System is slow,28-06-2025 09:51
+174,45,Issue reported,19-03-2025 07:38
+450,30,Issue reported,13-01-2025 07:45
+301,32,Monitoring for stability,15-01-2025 22:27
+164,25,Database query taking too long,08-02-2025 04:19
+261,37,Monitoring for stability,14-03-2025 05:17
+245,14,User confirmed resolution,27-05-2025 06:26
+389,3,Network connectivity issue,06-06-2025 05:06
+164,11,User confirmed resolution,23-05-2025 00:24
+119,27,Application crash reported,30-05-2025 00:27
+417,35,Issue reported,15-03-2025 19:00
+369,45,Issue reported,01-07-2025 08:17
+94,49,System is slow,10-02-2025 03:24
+487,2,Database query taking too long,02-05-2025 22:14
+238,7,Access rights updated,21-04-2025 23:11
+247,5,Hardware replacement scheduled,21-05-2025 06:33
+102,39,Monitoring for stability,04-07-2025 07:13
+425,34,Monitoring for stability,01-06-2025 03:07
+25,24,Resolved and closed,09-02-2025 08:09
+409,37,User confirmed resolution,27-02-2025 14:55
+372,43,User confirmed resolution,07-04-2025 13:50
+347,32,Acknowledged and working,21-06-2025 10:09
+136,17,Resolved and closed,07-04-2025 17:14
+493,44,Issue reported,18-04-2025 10:00
+406,27,Investigating the root cause,16-03-2025 07:49
+204,22,Issue reported,22-05-2025 19:35
+276,45,Database query taking too long,11-02-2025 17:09
+5,50,Resolved and closed,06-03-2025 17:29
+462,33,Patch deployed successfully,17-06-2025 12:56
+340,50,Patch deployed successfully,02-03-2025 18:55
+137,49,Network connectivity issue,30-01-2025 16:37
+51,29,Password reset request,05-06-2025 10:44
+172,40,Database query taking too long,25-05-2025 10:23
+61,14,Escalated to higher support,10-03-2025 05:44
+430,16,Issue reported,07-02-2025 03:03
+463,32,Network connectivity issue,04-02-2025 19:34
+164,8,Password reset request,12-03-2025 06:29
+74,44,Database query taking too long,12-03-2025 20:20
+339,30,Database query taking too long,12-07-2025 09:57
+24,47,Network connectivity issue,21-01-2025 21:49
+458,19,User confirmed resolution,05-01-2025 06:28
+330,50,Patch deployed successfully,14-06-2025 14:23
+81,18,User confirmed resolution,16-05-2025 23:52
+235,45,Investigating the root cause,26-01-2025 12:48
+365,9,Access rights updated,31-05-2025 09:26
+152,43,Password reset request,08-04-2025 00:23
+290,18,Monitoring for stability,07-05-2025 06:27
+232,25,Network connectivity issue,17-03-2025 18:03
+361,36,Escalated to higher support,06-03-2025 02:55
+259,25,Investigating the root cause,24-03-2025 11:26
+472,16,Monitoring for stability,18-01-2025 22:45
+329,44,Database query taking too long,13-06-2025 01:23
+290,33,Monitoring for stability,02-05-2025 00:58
+240,9,Resolved and closed,12-06-2025 01:19
+171,39,Resolved and closed,06-03-2025 17:40
+447,39,Access rights updated,25-01-2025 02:38
+178,34,Monitoring for stability,09-04-2025 17:52
+248,48,System is slow,14-01-2025 14:32
+234,7,Investigating the root cause,21-04-2025 17:49
+240,8,Acknowledged and working,29-06-2025 19:59
+308,48,Network connectivity issue,20-01-2025 14:20
+365,37,Network connectivity issue,29-01-2025 15:20
+472,14,Resolved and closed,11-01-2025 06:04
+427,4,System is slow,26-06-2025 05:04
+397,6,Patch deployed successfully,22-02-2025 12:43
+250,19,Acknowledged and working,29-01-2025 15:11
+309,46,Password reset request,29-03-2025 23:01
+151,42,Network connectivity issue,23-02-2025 09:39
+447,50,Investigating the root cause,17-02-2025 20:31
+234,39,Database query taking too long,16-06-2025 09:01
+18,39,Password reset request,07-07-2025 01:16
+47,33,Hardware replacement scheduled,17-01-2025 12:39
+63,39,Hardware replacement scheduled,03-06-2025 05:11
+64,15,Password reset request,01-01-2025 10:22
+377,43,Resolved and closed,24-06-2025 20:23
+19,2,Network connectivity issue,27-01-2025 17:04
+345,40,System is slow,07-07-2025 19:33
+222,26,Resolved and closed,14-04-2025 12:52
+351,35,Hardware replacement scheduled,19-04-2025 12:57
+422,42,Application crash reported,22-01-2025 16:31
+314,23,Issue reported,06-04-2025 10:11
+483,27,Patch deployed successfully,30-03-2025 19:59
+481,26,Patch deployed successfully,27-04-2025 12:08
+252,39,System is slow,14-03-2025 03:47
+347,27,Application crash reported,08-02-2025 22:29
+141,12,Issue reported,20-05-2025 01:42
+191,40,System is slow,09-07-2025 06:22
+225,30,Access rights updated,08-05-2025 06:32
+328,4,Password reset request,07-07-2025 18:41
+451,1,Monitoring for stability,09-01-2025 05:21
+292,24,Acknowledged and working,08-04-2025 18:58
+209,28,System is slow,30-03-2025 05:00
+478,1,Password reset request,21-02-2025 07:47
+340,6,System is slow,13-06-2025 04:45
+115,3,Access rights updated,28-04-2025 10:36
+386,32,User confirmed resolution,29-03-2025 13:39
+323,22,System is slow,24-06-2025 02:20
+337,10,Network connectivity issue,30-06-2025 00:50
+21,43,Resolved and closed,16-02-2025 07:46
+344,26,Password reset request,03-04-2025 04:08
+461,2,Resolved and closed,19-06-2025 09:24
+319,47,Patch deployed successfully,05-04-2025 22:17
+288,43,User confirmed resolution,22-03-2025 07:59
+282,44,User confirmed resolution,17-07-2025 08:13
+5,13,Escalated to higher support,19-05-2025 13:34
+451,40,Monitoring for stability,12-02-2025 16:18
+88,14,Database query taking too long,17-03-2025 05:27
+174,45,Access rights updated,17-05-2025 02:08
+445,15,Investigating the root cause,29-04-2025 22:43
+177,47,Monitoring for stability,22-06-2025 23:48
+321,2,Password reset request,19-01-2025 15:07
+77,38,Investigating the root cause,17-02-2025 21:27
+63,26,Escalated to higher support,28-03-2025 04:49
+418,49,Investigating the root cause,09-01-2025 06:09
+263,50,Application crash reported,26-05-2025 08:59
+350,34,Hardware replacement scheduled,25-01-2025 23:01
+470,32,Investigating the root cause,12-01-2025 11:13
+390,27,Network connectivity issue,20-05-2025 11:51
+83,17,Hardware replacement scheduled,20-02-2025 20:58
+78,6,User confirmed resolution,08-01-2025 01:55
+228,25,Monitoring for stability,11-04-2025 21:28
+110,10,Investigating the root cause,20-03-2025 23:58
+125,37,Acknowledged and working,10-02-2025 21:24
+216,18,Escalated to higher support,22-04-2025 14:39
+362,44,Acknowledged and working,19-02-2025 02:25
+298,50,Patch deployed successfully,01-04-2025 10:17
+485,12,Database query taking too long,31-05-2025 10:30
+81,35,Network connectivity issue,09-07-2025 21:45
+23,34,Issue reported,12-06-2025 03:17
+367,10,Issue reported,16-05-2025 01:45
+254,31,Network connectivity issue,24-04-2025 23:33
+221,35,Escalated to higher support,14-02-2025 08:41
+382,49,Resolved and closed,23-02-2025 17:21
+451,46,User confirmed resolution,19-07-2025 07:40
+344,9,Resolved and closed,23-01-2025 01:39
+373,44,User confirmed resolution,02-04-2025 15:31
+155,1,Escalated to higher support,12-04-2025 01:04
+25,36,System is slow,25-06-2025 16:57
+466,40,Escalated to higher support,05-01-2025 01:29
+252,6,Escalated to higher support,18-02-2025 23:25
+357,35,Issue reported,03-02-2025 21:22
+273,15,Escalated to higher support,15-02-2025 15:29
+63,41,Database query taking too long,01-05-2025 01:25
+97,36,Resolved and closed,04-01-2025 17:12
+154,1,Acknowledged and working,04-03-2025 19:07
+407,5,Password reset request,14-04-2025 18:16
+59,24,Resolved and closed,12-02-2025 04:56
+58,44,Monitoring for stability,31-05-2025 05:03
+57,47,Acknowledged and working,06-02-2025 18:40
+230,11,Network connectivity issue,15-05-2025 08:58
+499,4,Hardware replacement scheduled,19-03-2025 20:29
+298,36,Investigating the root cause,09-04-2025 19:06
+405,35,Network connectivity issue,25-01-2025 00:25
+129,29,Investigating the root cause,24-03-2025 19:48
+157,48,Access rights updated,07-04-2025 03:37
+156,29,User confirmed resolution,08-05-2025 00:24
+418,38,Issue reported,30-06-2025 21:56
+115,33,User confirmed resolution,18-07-2025 06:26
+190,44,Database query taking too long,15-02-2025 07:50
+273,17,Patch deployed successfully,24-04-2025 13:48
+107,43,Monitoring for stability,06-02-2025 02:33
+411,21,Investigating the root cause,10-02-2025 11:47
+265,21,Resolved and closed,15-06-2025 03:05
+279,8,User confirmed resolution,02-06-2025 09:02
+215,7,Database query taking too long,27-06-2025 05:30
+406,32,Application crash reported,15-07-2025 21:29
+236,10,Acknowledged and working,14-03-2025 15:50
+223,45,Monitoring for stability,13-06-2025 20:53
+442,22,System is slow,22-02-2025 04:16
+492,12,Issue reported,24-03-2025 17:57
+278,5,Network connectivity issue,08-04-2025 17:07
+470,11,Acknowledged and working,04-06-2025 18:32
+266,18,Network connectivity issue,25-01-2025 06:13
+36,23,Monitoring for stability,30-06-2025 22:04
+442,31,Issue reported,25-02-2025 12:47
+308,28,Issue reported,07-03-2025 23:25
+145,14,Hardware replacement scheduled,26-05-2025 19:27
+195,46,Hardware replacement scheduled,27-01-2025 04:56
+24,12,Database query taking too long,06-06-2025 22:23
+182,39,Network connectivity issue,09-05-2025 12:17
+156,27,Password reset request,17-01-2025 03:18
+161,17,Password reset request,21-05-2025 16:12
+97,2,System is slow,28-06-2025 22:59
+79,33,Monitoring for stability,15-04-2025 20:20
+482,33,Monitoring for stability,14-07-2025 15:46
+135,45,Escalated to higher support,27-04-2025 16:41
+176,32,Network connectivity issue,11-04-2025 01:04
+62,16,System is slow,13-03-2025 12:46
+91,15,Investigating the root cause,24-05-2025 13:10
+97,50,Issue reported,23-04-2025 22:55
+461,35,Escalated to higher support,19-01-2025 22:22
+375,50,Escalated to higher support,17-04-2025 16:59
+101,45,Application crash reported,04-03-2025 12:26
+276,33,Database query taking too long,10-04-2025 23:04
+418,6,Hardware replacement scheduled,23-05-2025 15:22
+461,40,Escalated to higher support,11-03-2025 08:55
+447,49,User confirmed resolution,17-07-2025 08:38
+216,25,Resolved and closed,26-02-2025 01:34
+124,28,Monitoring for stability,10-02-2025 03:05
+457,4,Resolved and closed,22-02-2025 12:18
+392,31,Hardware replacement scheduled,05-05-2025 22:18
+161,46,Application crash reported,07-05-2025 21:19
+297,28,Hardware replacement scheduled,10-01-2025 00:52
+145,50,Patch deployed successfully,25-01-2025 10:18
+40,49,Database query taking too long,05-02-2025 09:35
+102,18,Password reset request,01-06-2025 13:05
+325,15,Hardware replacement scheduled,24-05-2025 08:28
+108,46,User confirmed resolution,25-01-2025 21:17
+51,28,Access rights updated,04-03-2025 23:37
+243,40,Network connectivity issue,28-05-2025 14:49
+288,14,Monitoring for stability,20-05-2025 12:35
+293,28,Resolved and closed,10-04-2025 21:14
+115,8,Acknowledged and working,08-06-2025 19:05
+143,15,Investigating the root cause,06-06-2025 12:46
+492,33,User confirmed resolution,21-06-2025 06:31
+66,21,System is slow,31-05-2025 18:09
+121,13,Application crash reported,14-05-2025 16:47
+131,31,Investigating the root cause,30-05-2025 21:59
+221,11,Application crash reported,28-05-2025 22:52
+408,5,Acknowledged and working,26-02-2025 19:19
+280,34,Database query taking too long,03-03-2025 07:27
+413,32,Hardware replacement scheduled,14-05-2025 13:10
+448,7,User confirmed resolution,24-06-2025 12:23
+394,20,Database query taking too long,02-05-2025 11:54
+494,19,Hardware replacement scheduled,11-04-2025 12:40
+379,3,Patch deployed successfully,03-03-2025 06:01
+235,30,Network connectivity issue,01-02-2025 10:05
+174,6,Database query taking too long,15-02-2025 23:54
+256,24,Resolved and closed,03-02-2025 19:05
+146,4,Database query taking too long,14-02-2025 02:21
+210,10,Password reset request,19-04-2025 11:33
+445,22,Password reset request,08-03-2025 11:27
+213,17,Monitoring for stability,06-07-2025 18:42
+182,9,Acknowledged and working,28-06-2025 13:45
+327,24,Hardware replacement scheduled,15-07-2025 14:17
+194,33,Issue reported,20-02-2025 03:31
+203,3,Network connectivity issue,14-03-2025 13:51
+224,37,Acknowledged and working,04-06-2025 00:06
+378,15,Password reset request,17-01-2025 22:45
+378,47,Application crash reported,05-05-2025 11:58
+480,45,Application crash reported,30-03-2025 13:54
+69,46,Investigating the root cause,27-04-2025 16:24
+467,35,System is slow,27-04-2025 00:52
+64,15,Resolved and closed,04-02-2025 14:05
+253,39,Acknowledged and working,11-02-2025 19:24
+496,15,Database query taking too long,08-07-2025 20:47
+300,9,Resolved and closed,25-01-2025 08:44
+290,31,Monitoring for stability,10-07-2025 12:37
+2,31,Patch deployed successfully,07-01-2025 01:35
+146,19,User confirmed resolution,06-07-2025 10:40
+6,42,Escalated to higher support,12-07-2025 19:38
+445,25,Acknowledged and working,20-06-2025 15:13
+28,32,Access rights updated,09-04-2025 22:29
+168,19,Application crash reported,16-02-2025 03:55
+34,21,Access rights updated,07-02-2025 09:32
+126,34,Hardware replacement scheduled,08-02-2025 05:24
+144,9,Application crash reported,16-01-2025 18:39
+451,49,Acknowledged and working,08-04-2025 22:46
+146,25,System is slow,04-03-2025 11:05
+340,18,System is slow,08-02-2025 22:17
+449,40,System is slow,31-03-2025 13:43
+196,32,Network connectivity issue,03-05-2025 21:41
+254,26,Monitoring for stability,28-05-2025 07:51
+314,47,Application crash reported,26-04-2025 00:38
+27,3,Access rights updated,18-02-2025 05:31
+98,14,Issue reported,28-04-2025 11:08
+288,11,Escalated to higher support,26-01-2025 08:45
+478,15,Application crash reported,09-04-2025 23:47
+153,11,Network connectivity issue,07-01-2025 13:02
+276,7,Investigating the root cause,20-03-2025 01:14
+66,5,Access rights updated,09-05-2025 00:45
+178,19,Patch deployed successfully,19-02-2025 22:25
+307,11,Investigating the root cause,09-01-2025 05:09
+429,36,Resolved and closed,06-02-2025 19:26
+167,42,Hardware replacement scheduled,06-02-2025 07:34
+164,28,Hardware replacement scheduled,04-04-2025 09:40
+358,12,Application crash reported,17-03-2025 10:27
+322,23,Patch deployed successfully,19-04-2025 10:35
+250,35,Escalated to higher support,13-05-2025 03:03
+108,46,Investigating the root cause,04-04-2025 02:30
+198,4,Issue reported,15-03-2025 19:09
+437,3,System is slow,10-04-2025 02:30
+425,39,Monitoring for stability,07-07-2025 07:50
+440,43,Database query taking too long,27-03-2025 20:18
+486,10,Hardware replacement scheduled,14-02-2025 03:58
+207,22,Database query taking too long,09-01-2025 22:34
+211,12,Resolved and closed,18-06-2025 21:41
+18,36,Database query taking too long,13-02-2025 02:23
+202,20,Investigating the root cause,26-03-2025 02:16
+87,5,User confirmed resolution,20-03-2025 13:13
+343,18,User confirmed resolution,18-07-2025 17:12
+343,18,Investigating the root cause,04-06-2025 21:12
+57,48,Escalated to higher support,13-06-2025 18:40
+449,15,Issue reported,19-04-2025 08:37
+15,45,Monitoring for stability,03-03-2025 17:05
+172,16,System is slow,17-06-2025 06:36
+339,18,Database query taking too long,23-05-2025 21:13
+484,21,Password reset request,10-01-2025 04:31
+169,16,Monitoring for stability,25-01-2025 21:42
+247,28,System is slow,18-02-2025 01:43
+98,4,Investigating the root cause,31-01-2025 02:41
+98,18,Application crash reported,24-03-2025 07:06
+341,27,Investigating the root cause,08-04-2025 22:13
+88,8,Access rights updated,10-03-2025 00:26
+428,41,Hardware replacement scheduled,12-02-2025 17:03
+288,43,System is slow,24-06-2025 23:53
+240,3,Hardware replacement scheduled,07-02-2025 19:16
+406,35,Hardware replacement scheduled,01-02-2025 06:04
+445,42,Database query taking too long,02-01-2025 18:19
+5,35,Application crash reported,08-04-2025 22:59
+125,46,User confirmed resolution,27-02-2025 00:20
+332,34,Network connectivity issue,01-02-2025 20:01
+369,5,Hardware replacement scheduled,07-07-2025 02:18
+398,37,Escalated to higher support,30-06-2025 13:33
+305,23,Network connectivity issue,05-05-2025 00:00
+127,10,Issue reported,22-02-2025 10:21
+267,34,Escalated to higher support,30-03-2025 12:11
+488,23,Hardware replacement scheduled,17-04-2025 23:43
+376,19,Password reset request,11-02-2025 17:18
+189,15,Issue reported,11-07-2025 23:36
+470,43,User confirmed resolution,14-03-2025 21:54
+12,2,Network connectivity issue,30-05-2025 19:32
+341,2,System is slow,04-02-2025 18:43
+103,50,User confirmed resolution,07-03-2025 14:22
+49,50,Investigating the root cause,18-06-2025 22:09
+167,27,Monitoring for stability,10-05-2025 00:49
+33,12,Network connectivity issue,20-03-2025 23:21
+68,41,System is slow,31-05-2025 15:29
+398,31,Acknowledged and working,18-02-2025 18:09
+137,22,User confirmed resolution,27-04-2025 13:31
+470,20,Application crash reported,08-03-2025 08:06
+48,49,Acknowledged and working,18-01-2025 02:02
+63,50,Investigating the root cause,08-02-2025 01:21
+345,29,Investigating the root cause,12-02-2025 00:19
+121,36,Hardware replacement scheduled,21-06-2025 18:05
+340,24,Investigating the root cause,20-03-2025 16:42
+6,6,Application crash reported,16-02-2025 21:31
+315,31,System is slow,23-06-2025 07:29
+405,7,Hardware replacement scheduled,19-06-2025 08:48
+338,34,User confirmed resolution,10-03-2025 06:32
+102,13,Issue reported,22-03-2025 07:39
+356,18,Acknowledged and working,15-05-2025 18:02
+352,34,System is slow,21-03-2025 13:03
+164,10,Database query taking too long,24-05-2025 03:35
+380,18,Investigating the root cause,08-04-2025 19:15
+37,15,Issue reported,02-07-2025 17:14
+92,48,Access rights updated,03-04-2025 02:13
+21,39,Application crash reported,05-05-2025 09:21
+302,9,Application crash reported,14-01-2025 02:42
+86,26,Network connectivity issue,13-02-2025 12:09
+116,5,Resolved and closed,28-03-2025 23:55
+191,24,Investigating the root cause,11-02-2025 16:24
+63,12,Monitoring for stability,22-05-2025 02:04
+287,45,Patch deployed successfully,22-06-2025 03:36
+236,26,Acknowledged and working,20-01-2025 14:06
+58,40,Hardware replacement scheduled,28-06-2025 14:10
+35,27,Database query taking too long,02-06-2025 08:12
+364,31,Monitoring for stability,18-01-2025 10:42
+332,16,Resolved and closed,20-04-2025 16:49
+196,21,Monitoring for stability,06-01-2025 02:17
+397,18,Application crash reported,23-06-2025 16:33
+266,42,Monitoring for stability,10-07-2025 12:02
+152,22,Hardware replacement scheduled,18-03-2025 01:50
+443,16,Patch deployed successfully,25-02-2025 22:51
+325,27,Patch deployed successfully,17-01-2025 19:29
+489,43,Password reset request,13-05-2025 23:10
+158,24,Escalated to higher support,16-01-2025 19:23
+175,45,Patch deployed successfully,23-02-2025 20:11
+313,29,Application crash reported,05-04-2025 00:09
+462,34,Database query taking too long,12-05-2025 19:56
+62,27,Investigating the root cause,30-05-2025 00:33
+110,34,Password reset request,13-03-2025 14:14
+363,48,Monitoring for stability,25-06-2025 13:11
+121,35,System is slow,09-07-2025 09:24
+196,39,Escalated to higher support,01-01-2025 16:28
+228,14,Password reset request,26-04-2025 00:14
+245,5,User confirmed resolution,02-03-2025 06:53
+249,25,Access rights updated,21-04-2025 10:06
+258,35,Escalated to higher support,12-02-2025 03:00
+12,42,Monitoring for stability,01-02-2025 02:47
+368,27,Hardware replacement scheduled,31-05-2025 12:55
+324,22,Resolved and closed,23-01-2025 01:30
+107,10,Resolved and closed,06-05-2025 10:57
+375,45,System is slow,15-06-2025 19:57
+141,13,Escalated to higher support,07-06-2025 00:08
+384,29,Network connectivity issue,04-07-2025 12:13
+341,45,System is slow,17-01-2025 07:12
+104,25,Hardware replacement scheduled,04-02-2025 06:27
+80,46,Escalated to higher support,12-01-2025 19:20
+125,16,Escalated to higher support,24-04-2025 00:21
+200,13,Password reset request,12-01-2025 21:57
+194,36,Acknowledged and working,03-01-2025 19:42
+382,36,Password reset request,25-06-2025 04:10
+151,39,Issue reported,12-04-2025 23:53
+468,11,Resolved and closed,19-03-2025 06:54
+141,9,Access rights updated,19-02-2025 15:48
+443,38,Password reset request,19-03-2025 13:05
+213,8,Escalated to higher support,08-07-2025 06:09
+54,33,Issue reported,23-01-2025 00:36
+136,20,Hardware replacement scheduled,02-02-2025 19:43
+500,32,Database query taking too long,10-04-2025 21:34
+393,41,Database query taking too long,27-06-2025 19:27
+259,14,Resolved and closed,21-05-2025 21:51
+309,35,Investigating the root cause,21-02-2025 01:00
+242,27,Access rights updated,03-07-2025 16:20
+348,16,System is slow,21-05-2025 20:59
+451,10,Acknowledged and working,29-04-2025 07:54
+182,42,Acknowledged and working,26-03-2025 17:06
+411,32,Issue reported,08-04-2025 17:43
+31,21,Escalated to higher support,30-04-2025 16:56
+183,37,Application crash reported,05-06-2025 19:54
+128,36,Database query taking too long,10-07-2025 17:32
+462,11,Monitoring for stability,04-03-2025 21:04
+159,44,Application crash reported,18-04-2025 23:24
+200,32,Investigating the root cause,27-04-2025 06:50
+296,7,System is slow,11-01-2025 12:08
+442,1,Issue reported,25-05-2025 04:06
+159,8,Escalated to higher support,15-06-2025 02:46
+35,44,Patch deployed successfully,03-03-2025 06:30
+396,8,Resolved and closed,13-03-2025 03:15
+56,19,Investigating the root cause,04-02-2025 18:52
+353,42,Application crash reported,30-06-2025 17:03
+352,44,Resolved and closed,17-04-2025 07:26
+360,13,Application crash reported,27-05-2025 04:33
+349,14,Issue reported,20-04-2025 06:29
+22,17,Acknowledged and working,06-06-2025 08:13
+155,32,Application crash reported,04-07-2025 23:06
+247,6,Escalated to higher support,04-02-2025 08:01
+455,20,Database query taking too long,05-06-2025 22:07
+192,10,Escalated to higher support,19-05-2025 00:05
+145,34,Patch deployed successfully,19-03-2025 10:16
+174,11,Acknowledged and working,02-05-2025 03:38
+103,19,User confirmed resolution,19-02-2025 01:04
+81,35,Issue reported,25-01-2025 20:20
+368,41,Access rights updated,16-03-2025 06:54
+408,2,Resolved and closed,18-07-2025 05:50
+317,23,Password reset request,26-03-2025 23:26
+284,3,Escalated to higher support,01-06-2025 00:04
+180,42,Hardware replacement scheduled,18-06-2025 01:52
+459,2,Hardware replacement scheduled,08-02-2025 14:04
+342,39,Resolved and closed,02-01-2025 11:28
+184,28,Application crash reported,18-02-2025 17:02
+455,8,System is slow,14-01-2025 03:40
+218,49,Investigating the root cause,15-06-2025 15:47
+115,37,Database query taking too long,24-05-2025 01:22
+376,9,Network connectivity issue,05-04-2025 03:58
+329,2,Access rights updated,22-04-2025 10:05
+129,29,Application crash reported,19-02-2025 22:53
+84,28,Investigating the root cause,16-07-2025 13:52
+2,33,Issue reported,14-03-2025 23:47
+26,6,Acknowledged and working,11-07-2025 17:15
+102,33,User confirmed resolution,14-03-2025 08:04
+479,48,Escalated to higher support,17-02-2025 17:01
+277,13,Investigating the root cause,21-05-2025 05:49
+470,27,Acknowledged and working,06-03-2025 09:09
+334,1,System is slow,31-05-2025 07:55
+107,10,Network connectivity issue,12-04-2025 23:30
+436,49,Escalated to higher support,03-05-2025 14:14
+164,46,Access rights updated,23-03-2025 01:05
+357,41,Access rights updated,04-07-2025 00:45
+24,33,Issue reported,23-05-2025 01:18
+300,15,System is slow,14-03-2025 14:45
+68,1,System is slow,10-03-2025 03:55
+280,46,Password reset request,19-04-2025 20:44
+435,27,Investigating the root cause,20-06-2025 23:37
+382,10,Password reset request,01-07-2025 02:51
+464,33,User confirmed resolution,21-04-2025 22:09
+155,16,Password reset request,07-04-2025 07:20
+413,21,Resolved and closed,10-03-2025 21:02
+183,18,Application crash reported,30-03-2025 02:10
+22,16,Application crash reported,21-02-2025 18:12
+457,15,System is slow,05-05-2025 04:12
+51,29,Acknowledged and working,24-03-2025 13:19
+358,24,User confirmed resolution,29-01-2025 16:21
+296,44,System is slow,16-05-2025 08:07
+237,44,Acknowledged and working,15-01-2025 13:07
+4,30,Application crash reported,27-04-2025 10:26
+491,18,Patch deployed successfully,10-02-2025 14:36
+272,32,Monitoring for stability,18-02-2025 06:31
+166,42,Resolved and closed,05-03-2025 18:39
+356,1,Escalated to higher support,01-05-2025 13:38
+38,17,Acknowledged and working,28-03-2025 18:34
+56,18,Investigating the root cause,20-02-2025 09:33
+186,19,Hardware replacement scheduled,02-06-2025 18:02
+135,18,Database query taking too long,05-07-2025 17:06
+171,16,Monitoring for stability,19-05-2025 23:18
+423,45,Database query taking too long,31-05-2025 04:52
+125,8,Acknowledged and working,18-01-2025 12:07
+217,32,Resolved and closed,26-02-2025 06:07
+457,19,Database query taking too long,17-07-2025 22:28
+315,11,Monitoring for stability,08-07-2025 04:14
+194,10,Patch deployed successfully,13-03-2025 20:18
+456,13,Escalated to higher support,15-04-2025 01:41
+437,28,Acknowledged and working,07-01-2025 04:26
+188,50,Hardware replacement scheduled,05-02-2025 10:23
+258,49,Investigating the root cause,05-06-2025 13:39
+125,24,System is slow,10-02-2025 10:53
+334,13,Password reset request,26-02-2025 18:48
+344,24,Issue reported,03-06-2025 03:10
+139,46,Resolved and closed,06-07-2025 02:14
+80,10,Resolved and closed,15-06-2025 10:00
+289,33,Password reset request,05-06-2025 05:32
+492,37,Hardware replacement scheduled,10-05-2025 15:49
+91,49,Issue reported,29-03-2025 03:46
+189,15,User confirmed resolution,13-07-2025 11:30
+34,34,Issue reported,02-03-2025 19:17
+221,27,System is slow,01-02-2025 00:37
+355,49,Monitoring for stability,28-06-2025 17:29
+94,41,Access rights updated,17-05-2025 23:14
+62,16,User confirmed resolution,18-02-2025 08:34
+43,10,System is slow,05-05-2025 17:29
+166,50,Acknowledged and working,02-05-2025 17:42
+143,50,Issue reported,05-03-2025 10:25
+270,11,Database query taking too long,11-01-2025 01:22
+119,41,Application crash reported,07-06-2025 16:29
+233,38,Escalated to higher support,04-03-2025 23:00
+320,22,Investigating the root cause,26-03-2025 18:51
+324,42,Resolved and closed,11-05-2025 11:52
+45,27,Access rights updated,23-01-2025 08:14
+194,33,Database query taking too long,08-06-2025 01:59
+209,5,Hardware replacement scheduled,11-02-2025 03:42
+161,11,User confirmed resolution,03-02-2025 08:31
+142,33,Password reset request,19-03-2025 13:21
+103,14,Patch deployed successfully,02-07-2025 23:08
+183,4,Acknowledged and working,14-02-2025 13:31
+26,48,Resolved and closed,18-06-2025 19:16
+343,23,Issue reported,08-03-2025 19:42
+413,12,Investigating the root cause,06-07-2025 16:46
+192,25,Escalated to higher support,12-03-2025 11:15
+407,6,Patch deployed successfully,15-02-2025 17:29
+375,7,Access rights updated,10-02-2025 08:34
+499,8,Resolved and closed,08-06-2025 08:57
+155,28,Access rights updated,16-02-2025 06:17
+146,9,Patch deployed successfully,30-06-2025 10:19
+260,7,System is slow,29-05-2025 02:49
+45,35,Hardware replacement scheduled,14-07-2025 23:58
+69,2,Issue reported,30-03-2025 12:34
+331,6,Access rights updated,28-06-2025 23:50
+343,3,Patch deployed successfully,14-01-2025 02:37
+206,15,Network connectivity issue,14-05-2025 17:53
+360,45,Network connectivity issue,27-06-2025 20:17
+291,47,Patch deployed successfully,13-06-2025 00:36
+151,18,Access rights updated,08-07-2025 08:07
+498,38,Escalated to higher support,08-03-2025 12:16
+417,3,Monitoring for stability,05-01-2025 10:46
+90,3,Resolved and closed,19-03-2025 10:23
+209,29,Hardware replacement scheduled,26-03-2025 19:42
+372,36,Patch deployed successfully,01-04-2025 06:05
+388,16,Issue reported,20-04-2025 19:10
+47,2,Investigating the root cause,21-01-2025 02:59
+241,26,Resolved and closed,05-01-2025 13:54
+369,29,Patch deployed successfully,22-03-2025 17:56
+98,34,Password reset request,24-01-2025 16:19
+460,39,Issue reported,29-06-2025 15:56
+161,23,Database query taking too long,06-02-2025 05:22
+44,10,User confirmed resolution,04-03-2025 18:20
+172,30,Resolved and closed,14-01-2025 18:07
+120,25,Network connectivity issue,02-07-2025 07:01
+96,25,Access rights updated,13-06-2025 10:50
+270,46,Password reset request,07-02-2025 23:11
+487,1,Monitoring for stability,02-05-2025 07:15
+188,21,Monitoring for stability,09-03-2025 00:01
+431,43,Hardware replacement scheduled,30-04-2025 13:53
+61,26,Patch deployed successfully,28-06-2025 00:47
+184,1,Issue reported,12-01-2025 17:20
+286,13,Resolved and closed,23-04-2025 10:15
+443,30,Database query taking too long,17-06-2025 21:03
+419,30,Investigating the root cause,28-01-2025 15:38
+209,12,Hardware replacement scheduled,08-02-2025 13:52
+148,37,Investigating the root cause,28-03-2025 17:49
+246,35,Investigating the root cause,03-02-2025 14:01
+361,1,User confirmed resolution,05-03-2025 10:24
+177,21,Escalated to higher support,13-05-2025 07:33
+473,27,Application crash reported,05-07-2025 09:46
+343,44,Patch deployed successfully,31-05-2025 23:47
+307,4,Monitoring for stability,22-06-2025 18:42
+340,14,Resolved and closed,29-01-2025 01:39
+91,41,Resolved and closed,09-03-2025 10:25
+376,48,Network connectivity issue,22-01-2025 11:54
+36,45,Access rights updated,05-04-2025 10:52
+95,4,Escalated to higher support,02-03-2025 16:20
+118,33,Monitoring for stability,07-04-2025 17:13
+452,12,Access rights updated,07-06-2025 07:20
+68,23,Investigating the root cause,01-03-2025 16:59
+181,25,User confirmed resolution,23-01-2025 04:18
+371,38,Acknowledged and working,18-04-2025 15:04
+500,35,Escalated to higher support,14-05-2025 17:41
+84,9,Monitoring for stability,01-06-2025 01:58
+69,14,Issue reported,06-03-2025 15:49
+355,32,Password reset request,05-03-2025 08:20
+234,23,Investigating the root cause,14-02-2025 21:49
+486,27,Application crash reported,21-03-2025 07:58
+364,39,Acknowledged and working,28-06-2025 21:34
+239,20,Application crash reported,25-03-2025 21:17
+285,14,Password reset request,06-04-2025 08:23
+46,44,Issue reported,29-03-2025 00:03
+271,35,Investigating the root cause,21-02-2025 04:04
+84,1,Password reset request,16-03-2025 14:27
+478,45,Investigating the root cause,14-06-2025 09:37
+364,25,Network connectivity issue,12-02-2025 14:10
+166,9,User confirmed resolution,22-05-2025 00:13
+299,33,Escalated to higher support,08-01-2025 03:03
+495,47,Access rights updated,13-04-2025 16:17
+120,42,Access rights updated,05-07-2025 03:25
+492,8,Resolved and closed,27-06-2025 17:56
+101,9,Issue reported,10-07-2025 06:39
+8,25,Hardware replacement scheduled,26-05-2025 08:49
+227,50,Patch deployed successfully,09-07-2025 01:15
+350,13,Escalated to higher support,22-05-2025 08:50
+70,10,Investigating the root cause,11-02-2025 23:10
+415,37,Database query taking too long,20-05-2025 09:42
+80,31,Escalated to higher support,23-02-2025 18:29
+119,24,Monitoring for stability,02-05-2025 20:09
+160,25,Application crash reported,16-05-2025 14:43
+154,30,Issue reported,18-03-2025 16:55
+439,19,Network connectivity issue,03-01-2025 12:17
+331,46,System is slow,07-07-2025 18:06
+7,2,User confirmed resolution,08-07-2025 09:17
+85,37,Access rights updated,13-02-2025 14:26
+208,29,Application crash reported,03-01-2025 01:53
+298,49,Escalated to higher support,10-04-2025 09:25
+290,22,Hardware replacement scheduled,31-01-2025 01:26
+133,41,System is slow,28-06-2025 18:45
+349,43,Access rights updated,24-01-2025 22:44
+267,45,Patch deployed successfully,09-06-2025 11:43
+132,32,Investigating the root cause,22-02-2025 10:06
+6,49,Patch deployed successfully,20-01-2025 20:56
+68,33,Escalated to higher support,11-04-2025 11:20
+372,20,Database query taking too long,06-01-2025 00:10
+484,23,Resolved and closed,15-01-2025 04:13
+116,41,Access rights updated,14-06-2025 07:22
+23,38,Issue reported,21-06-2025 15:56
+434,37,Investigating the root cause,25-05-2025 08:02
+152,15,User confirmed resolution,13-03-2025 04:01
+270,5,Issue reported,28-05-2025 18:28
+244,11,Resolved and closed,18-04-2025 15:02
+329,29,Resolved and closed,30-04-2025 15:26
+294,11,System is slow,27-03-2025 21:58
+207,33,Password reset request,25-04-2025 13:57
+411,34,Patch deployed successfully,28-03-2025 10:08
+11,9,System is slow,15-07-2025 02:32
+251,31,Monitoring for stability,28-01-2025 13:32
+79,12,Access rights updated,03-03-2025 19:52
+242,22,Application crash reported,19-06-2025 02:11
+322,23,Resolved and closed,25-04-2025 08:29
+316,30,Resolved and closed,23-02-2025 02:27
+293,12,Network connectivity issue,24-04-2025 04:47
+407,23,Resolved and closed,01-07-2025 08:05
+302,2,Network connectivity issue,21-04-2025 17:49
+208,45,Investigating the root cause,06-03-2025 04:24
+320,13,User confirmed resolution,13-01-2025 18:31
+225,38,Investigating the root cause,10-03-2025 18:06
+326,3,Patch deployed successfully,09-03-2025 13:26
+382,20,Patch deployed successfully,19-07-2025 01:01
+27,19,System is slow,22-03-2025 20:02
+318,30,Network connectivity issue,27-04-2025 06:57
+197,41,Patch deployed successfully,31-01-2025 09:16
+287,37,Resolved and closed,17-04-2025 22:03
+5,39,Access rights updated,13-03-2025 20:59
+302,11,Issue reported,10-04-2025 14:39
+361,30,Issue reported,12-06-2025 03:55
+174,6,Access rights updated,11-06-2025 04:17
+415,36,Password reset request,20-02-2025 11:59
+475,50,Password reset request,24-06-2025 12:26
+382,1,System is slow,19-03-2025 19:00
+200,50,Issue reported,22-02-2025 19:26
+7,6,Issue reported,09-04-2025 23:57
+66,4,User confirmed resolution,09-05-2025 15:47
+382,11,Acknowledged and working,29-04-2025 00:41
+96,15,Escalated to higher support,27-01-2025 00:02
+98,15,Hardware replacement scheduled,13-04-2025 11:08
+358,36,User confirmed resolution,25-02-2025 19:41
+119,16,Patch deployed successfully,06-07-2025 13:06
+467,30,Escalated to higher support,03-03-2025 14:08
+103,31,Issue reported,08-01-2025 14:34
+74,29,Database query taking too long,19-03-2025 19:12
+207,18,Issue reported,12-06-2025 16:33
+234,9,Investigating the root cause,29-03-2025 07:41
+179,31,System is slow,16-07-2025 15:47
+257,10,Resolved and closed,17-07-2025 23:26
+293,10,Monitoring for stability,18-06-2025 10:45
+21,40,Access rights updated,31-01-2025 07:20
+235,18,Database query taking too long,12-04-2025 00:09
+444,26,Monitoring for stability,13-07-2025 11:56
+443,5,Acknowledged and working,08-02-2025 21:46
+250,48,Acknowledged and working,17-04-2025 12:42
+372,40,Resolved and closed,04-05-2025 12:49
+369,27,Escalated to higher support,19-04-2025 20:11
+366,28,System is slow,12-01-2025 18:57
+434,24,Network connectivity issue,20-06-2025 01:11
+219,27,Password reset request,04-07-2025 10:38
+317,32,Investigating the root cause,07-03-2025 21:39
+116,10,System is slow,09-05-2025 16:04
+88,21,Monitoring for stability,17-02-2025 01:43
+244,50,Acknowledged and working,21-03-2025 07:28
+301,12,Hardware replacement scheduled,17-04-2025 01:38
+431,33,Resolved and closed,11-06-2025 17:19
+115,8,User confirmed resolution,19-03-2025 05:35
+356,9,Database query taking too long,14-04-2025 08:45
+404,7,Acknowledged and working,22-03-2025 08:43
+329,16,Hardware replacement scheduled,25-03-2025 21:04
+127,14,Patch deployed successfully,17-01-2025 10:16
+388,9,Network connectivity issue,31-03-2025 20:51
+369,3,User confirmed resolution,12-02-2025 06:58
+187,44,Application crash reported,18-01-2025 05:43
+454,14,Hardware replacement scheduled,14-07-2025 19:14
+356,33,Access rights updated,15-07-2025 02:27
+366,50,Database query taking too long,22-02-2025 16:18
+175,18,Network connectivity issue,19-02-2025 01:28
+70,35,Patch deployed successfully,04-06-2025 07:59
+473,37,System is slow,04-01-2025 15:23
+224,31,Network connectivity issue,13-05-2025 10:11
+374,6,Application crash reported,23-01-2025 02:16
+86,31,User confirmed resolution,28-03-2025 10:01
+115,38,Patch deployed successfully,20-03-2025 15:47
+327,45,Access rights updated,16-03-2025 08:41
+374,42,Password reset request,04-07-2025 08:25
+429,49,Resolved and closed,12-02-2025 15:04
+148,50,Password reset request,01-06-2025 05:24
+270,40,Investigating the root cause,03-03-2025 21:04
+31,15,System is slow,08-02-2025 02:40
+300,45,Application crash reported,11-02-2025 11:38
+146,42,Monitoring for stability,27-03-2025 15:23
+327,29,Escalated to higher support,23-01-2025 08:35
+351,40,Escalated to higher support,18-01-2025 19:52
+404,46,Escalated to higher support,07-02-2025 15:18
+59,33,Patch deployed successfully,13-07-2025 13:21
+425,27,Access rights updated,12-02-2025 06:51
+454,28,Resolved and closed,15-01-2025 03:37
+137,20,Hardware replacement scheduled,12-07-2025 13:10
+310,26,Password reset request,20-06-2025 22:34
+97,49,System is slow,14-01-2025 23:57
+497,42,Investigating the root cause,12-07-2025 02:28
+492,44,Access rights updated,09-07-2025 06:40
+105,25,Access rights updated,13-01-2025 15:05
+29,30,Resolved and closed,27-05-2025 20:39
+256,20,Issue reported,01-05-2025 05:20
+86,2,Resolved and closed,18-06-2025 16:39
+185,7,User confirmed resolution,16-06-2025 17:07
+281,50,Resolved and closed,01-05-2025 09:46
+262,21,Hardware replacement scheduled,19-02-2025 13:22
+392,33,Escalated to higher support,19-04-2025 23:55
+415,16,Hardware replacement scheduled,24-04-2025 10:09
+269,39,Issue reported,22-03-2025 06:58
+402,29,Password reset request,19-03-2025 09:21
+239,48,Patch deployed successfully,18-05-2025 16:58
+268,12,Database query taking too long,21-04-2025 10:56
+172,28,Issue reported,31-05-2025 13:56
+142,5,Access rights updated,09-06-2025 19:46
+128,38,Hardware replacement scheduled,04-07-2025 04:51
+68,29,Issue reported,15-05-2025 03:19
+283,34,Acknowledged and working,17-02-2025 02:48
+346,35,Monitoring for stability,19-01-2025 01:39
+229,48,Network connectivity issue,09-06-2025 06:07
+56,6,Database query taking too long,18-03-2025 17:53
+209,48,Resolved and closed,31-03-2025 02:44
+215,18,User confirmed resolution,18-03-2025 08:46
+112,45,Patch deployed successfully,13-01-2025 05:07
+52,4,Acknowledged and working,11-04-2025 22:07
+336,7,Investigating the root cause,02-02-2025 12:20
+63,25,Monitoring for stability,21-04-2025 01:11
+188,13,Password reset request,22-04-2025 06:25
+95,14,Database query taking too long,18-01-2025 18:42
+440,16,Database query taking too long,09-01-2025 18:09
+32,27,Investigating the root cause,19-04-2025 14:48
+136,49,Issue reported,23-04-2025 07:01

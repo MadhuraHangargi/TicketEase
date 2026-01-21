@@ -1,0 +1,501 @@
+ticket_id,issue,employee_name,issue_category,priority,target_resolution_hours,created_at,resolved_at,status
+1,Security alert check,Vikram Joshi,Other IT,Medium,24,23-02-2024 19:00,,In Progress
+2,Unable to connect to printer,Karan Patel,Printer,Critical,4,01-03-2024 05:00,,Open
+3,Spam filter issue,Priya Mehta,Email,Critical,4,22-01-2024 22:00,23-01-2024 01:00,Closed
+4,Query timeout,Vikram Joshi,Database,Critical,4,10-02-2024 10:00,10-02-2024 17:00,Closed
+5,License expired,Vikram Joshi,Software,Critical,4,19-02-2024 19:00,,In Progress
+6,System performance issue,Vikram Joshi,Other IT,High,8,17-01-2024 03:00,,Open
+7,New device setup,Pooja Nair,Other IT,Low,72,14-02-2024 22:00,19-02-2024 11:00,Resolved
+8,VPN not connecting,Anita Reddy,Network,Medium,24,04-01-2024 23:00,,In Progress
+9,WiFi unstable,Neha Singh,Network,Critical,4,06-01-2024 21:00,,In Progress
+10,Password reset required,Priya Mehta,Access,Low,72,07-02-2024 23:00,,Open
+11,System performance issue,Meena Das,Other IT,High,8,05-03-2024 02:00,,Open
+12,Update failure,Amit Sharma,Software,High,8,16-01-2024 18:00,17-01-2024 07:00,Resolved
+13,Configuration change request,Ravi Kumar,Other IT,Critical,4,20-03-2024 03:00,,In Progress
+14,LAN cable issue,Vikram Joshi,Network,Medium,24,10-03-2024 07:00,,In Progress
+15,Database connection error,Pooja Nair,Database,High,8,08-01-2024 22:00,09-01-2024 14:00,Closed
+16,Network downtime,Suresh Iyer,Network,Medium,24,06-02-2024 21:00,,Open
+17,Configuration change request,Vikram Joshi,Other IT,Critical,4,06-01-2024 06:00,06-01-2024 10:00,Closed
+18,Update failure,Vikram Joshi,Software,Critical,4,31-01-2024 16:00,,In Progress
+19,Role permission issue,Karan Patel,Access,Low,72,18-03-2024 02:00,22-03-2024 16:00,Closed
+20,DB user locked,Ravi Kumar,Database,High,8,05-02-2024 10:00,05-02-2024 15:00,Closed
+21,Backup failure,Neha Singh,Database,Low,72,12-01-2024 14:00,,Open
+22,Access denied to shared folder,Vikram Joshi,Access,Critical,4,10-01-2024 05:00,,Open
+23,Access denied to shared folder,Karan Patel,Access,High,8,23-02-2024 06:00,,Open
+24,Print queue stuck,Meena Das,Printer,Low,72,28-01-2024 17:00,,Open
+25,Access denied to shared folder,Meena Das,Access,Medium,24,06-01-2024 19:00,,In Progress
+26,WiFi unstable,Suresh Iyer,Network,Low,72,02-01-2024 22:00,07-01-2024 08:00,Closed
+27,Monitor flickering,Anita Reddy,Hardware,Low,72,09-03-2024 22:00,15-03-2024 16:00,Closed
+28,Laptop not booting,Neha Singh,Hardware,Critical,4,23-01-2024 20:00,23-01-2024 23:00,Closed
+29,Database connection error,Priya Mehta,Database,Critical,4,02-01-2024 08:00,,Open
+30,Configuration change request,Karan Patel,Other IT,Low,72,23-03-2024 13:00,26-03-2024 20:00,Resolved
+31,Configuration change request,Pooja Nair,Other IT,Low,72,13-02-2024 21:00,18-02-2024 19:00,Closed
+32,Account locked,Vikram Joshi,Access,Critical,4,10-03-2024 05:00,10-03-2024 06:00,Resolved
+33,Network downtime,Ravi Kumar,Network,High,8,02-02-2024 08:00,02-02-2024 12:00,Closed
+34,Software installation request,Neha Singh,Software,Low,72,06-03-2024 21:00,,In Progress
+35,System performance issue,Amit Sharma,Other IT,Medium,24,11-03-2024 17:00,,In Progress
+36,Keyboard not working,Meena Das,Hardware,Critical,4,24-01-2024 17:00,25-01-2024 01:00,Resolved
+37,LAN cable issue,Meena Das,Network,Medium,24,18-03-2024 21:00,20-03-2024 05:00,Closed
+38,Unable to send mail,Ravi Kumar,Email,Low,72,13-03-2024 23:00,,Open
+39,Low toner issue,Pooja Nair,Printer,Critical,4,02-01-2024 06:00,,In Progress
+40,Network downtime,Pooja Nair,Network,Low,72,08-01-2024 05:00,11-01-2024 00:00,Closed
+41,Role permission issue,Ravi Kumar,Access,High,8,28-01-2024 00:00,28-01-2024 04:00,Resolved
+42,Laptop not booting,Priya Mehta,Hardware,Critical,4,20-02-2024 22:00,,In Progress
+43,VPN not connecting,Vikram Joshi,Network,Medium,24,01-02-2024 10:00,01-02-2024 18:00,Closed
+44,Mouse malfunctioning,Karan Patel,Hardware,Critical,4,21-03-2024 23:00,22-03-2024 07:00,Closed
+45,Update failure,Meena Das,Software,High,8,10-01-2024 17:00,,Open
+46,Update failure,Amit Sharma,Software,Low,72,01-02-2024 22:00,,In Progress
+47,VPN access request,Amit Sharma,Access,High,8,19-02-2024 11:00,,In Progress
+48,Outlook crash,Amit Sharma,Email,High,8,06-02-2024 20:00,,In Progress
+49,Print queue stuck,Karan Patel,Printer,Low,72,03-03-2024 00:00,05-03-2024 20:00,Resolved
+50,Backup failure,Pooja Nair,Database,Medium,24,08-03-2024 04:00,,In Progress
+51,VPN not connecting,Meena Das,Network,High,8,06-03-2024 20:00,07-03-2024 09:00,Closed
+52,Data recovery request,Vikram Joshi,Other IT,Medium,24,14-01-2024 17:00,,In Progress
+53,Application crash,Meena Das,Software,Medium,24,01-01-2024 10:00,02-01-2024 05:00,Closed
+54,Laptop not booting,Meena Das,Hardware,Medium,24,04-03-2024 02:00,,Open
+55,Account locked,Anita Reddy,Access,Medium,24,05-02-2024 19:00,07-02-2024 02:00,Closed
+56,Network downtime,Karan Patel,Network,Critical,4,18-03-2024 15:00,18-03-2024 18:00,Closed
+57,Slow internet,Neha Singh,Network,Medium,24,27-02-2024 06:00,27-02-2024 16:00,Resolved
+58,Slow query performance,Priya Mehta,Database,Critical,4,24-01-2024 14:00,,In Progress
+59,Slow query performance,Neha Singh,Database,Low,72,20-03-2024 15:00,,In Progress
+60,Security alert check,Priya Mehta,Other IT,Critical,4,06-03-2024 07:00,,In Progress
+61,VPN not connecting,Priya Mehta,Network,High,8,19-02-2024 16:00,20-02-2024 03:00,Resolved
+62,Software installation request,Amit Sharma,Software,High,8,01-01-2024 21:00,02-01-2024 01:00,Resolved
+63,DB user locked,Vikram Joshi,Database,Critical,4,11-03-2024 23:00,,In Progress
+64,Security alert check,Pooja Nair,Other IT,Critical,4,18-02-2024 22:00,18-02-2024 23:00,Resolved
+65,Slow internet,Ravi Kumar,Network,Critical,4,16-03-2024 21:00,16-03-2024 22:00,Resolved
+66,New device setup,Ravi Kumar,Other IT,Critical,4,22-03-2024 22:00,23-03-2024 03:00,Closed
+67,Mouse malfunctioning,Suresh Iyer,Hardware,High,8,02-01-2024 00:00,02-01-2024 07:00,Closed
+68,Password reset required,Neha Singh,Access,High,8,12-01-2024 19:00,,Open
+69,Unable to connect to printer,Meena Das,Printer,Critical,4,31-01-2024 08:00,,In Progress
+70,Query timeout,Vikram Joshi,Database,High,8,17-03-2024 07:00,17-03-2024 18:00,Closed
+71,Query timeout,Ravi Kumar,Database,Low,72,13-01-2024 01:00,,In Progress
+72,Keyboard not working,Vikram Joshi,Hardware,Medium,24,10-02-2024 22:00,,In Progress
+73,Backup failure,Vikram Joshi,Database,Low,72,21-02-2024 07:00,,Open
+74,Password reset required,Suresh Iyer,Access,Critical,4,02-03-2024 21:00,,In Progress
+75,Print queue stuck,Meena Das,Printer,Low,72,28-01-2024 09:00,28-01-2024 10:00,Resolved
+76,Monitor flickering,Pooja Nair,Hardware,Low,72,24-02-2024 17:00,01-03-2024 10:00,Resolved
+77,Query timeout,Vikram Joshi,Database,Medium,24,21-03-2024 04:00,,Open
+78,Unable to connect to printer,Suresh Iyer,Printer,Low,72,21-01-2024 17:00,22-01-2024 17:00,Resolved
+79,Network downtime,Priya Mehta,Network,Medium,24,08-03-2024 20:00,08-03-2024 23:00,Closed
+80,Keyboard not working,Suresh Iyer,Hardware,High,8,04-02-2024 00:00,,In Progress
+81,Monitor flickering,Suresh Iyer,Hardware,Low,72,05-01-2024 19:00,,In Progress
+82,Paper jam,Ravi Kumar,Printer,High,8,21-03-2024 13:00,,Open
+83,Slow query performance,Meena Das,Database,Medium,24,24-02-2024 08:00,26-02-2024 01:00,Closed
+84,Role permission issue,Anita Reddy,Access,Critical,4,09-03-2024 09:00,09-03-2024 14:00,Resolved
+85,Database connection error,Karan Patel,Database,Low,72,15-03-2024 00:00,15-03-2024 08:00,Resolved
+86,Distribution list request,Suresh Iyer,Email,Critical,4,12-02-2024 17:00,12-02-2024 18:00,Resolved
+87,Print queue stuck,Pooja Nair,Printer,Low,72,09-03-2024 18:00,,In Progress
+88,Application crash,Amit Sharma,Software,High,8,17-02-2024 20:00,17-02-2024 21:00,Resolved
+89,Unable to send mail,Karan Patel,Email,Medium,24,10-03-2024 17:00,,Open
+90,Distribution list request,Suresh Iyer,Email,Critical,4,06-03-2024 13:00,06-03-2024 20:00,Closed
+91,Configuration change request,Anita Reddy,Other IT,Low,72,12-01-2024 00:00,16-01-2024 07:00,Resolved
+92,Laptop not booting,Anita Reddy,Hardware,Critical,4,15-02-2024 02:00,,In Progress
+93,Software installation request,Suresh Iyer,Software,Critical,4,02-03-2024 06:00,,Open
+94,Security alert check,Pooja Nair,Other IT,Critical,4,17-03-2024 21:00,,In Progress
+95,System performance issue,Neha Singh,Other IT,Critical,4,10-01-2024 21:00,,In Progress
+96,Data recovery request,Priya Mehta,Other IT,Medium,24,21-01-2024 16:00,,In Progress
+97,Application crash,Amit Sharma,Software,Critical,4,15-02-2024 08:00,,In Progress
+98,Outlook crash,Amit Sharma,Email,Low,72,22-03-2024 18:00,,Open
+99,Bug in internal tool,Pooja Nair,Software,Medium,24,15-01-2024 15:00,,In Progress
+100,DB user locked,Meena Das,Database,Medium,24,23-02-2024 03:00,24-02-2024 02:00,Resolved
+101,WiFi unstable,Vikram Joshi,Network,Low,72,10-01-2024 23:00,13-01-2024 11:00,Closed
+102,Update failure,Anita Reddy,Software,Critical,4,10-03-2024 03:00,10-03-2024 11:00,Resolved
+103,Monitor flickering,Priya Mehta,Hardware,Low,72,10-02-2024 22:00,,Open
+104,System performance issue,Ravi Kumar,Other IT,Medium,24,06-01-2024 09:00,08-01-2024 01:00,Resolved
+105,Database connection error,Meena Das,Database,High,8,08-03-2024 21:00,,In Progress
+106,Slow internet,Priya Mehta,Network,Medium,24,29-01-2024 11:00,30-01-2024 03:00,Closed
+107,Slow query performance,Neha Singh,Database,Medium,24,10-02-2024 21:00,,Open
+108,DB user locked,Anita Reddy,Database,High,8,18-01-2024 04:00,,In Progress
+109,Unable to connect to printer,Vikram Joshi,Printer,Critical,4,11-02-2024 02:00,11-02-2024 08:00,Closed
+110,New device setup,Anita Reddy,Other IT,Critical,4,15-03-2024 10:00,,In Progress
+111,Data recovery request,Neha Singh,Other IT,Medium,24,17-03-2024 03:00,,Open
+112,Account locked,Karan Patel,Access,High,8,04-01-2024 12:00,,Open
+113,Mouse malfunctioning,Vikram Joshi,Hardware,Low,72,03-01-2024 14:00,,In Progress
+114,Software installation request,Neha Singh,Software,Medium,24,25-01-2024 13:00,,In Progress
+115,WiFi unstable,Ravi Kumar,Network,High,8,04-02-2024 12:00,05-02-2024 04:00,Resolved
+116,WiFi unstable,Anita Reddy,Network,Medium,24,09-03-2024 04:00,09-03-2024 11:00,Closed
+117,Backup failure,Anita Reddy,Database,Low,72,02-01-2024 15:00,06-01-2024 22:00,Resolved
+118,Backup failure,Vikram Joshi,Database,Medium,24,21-01-2024 20:00,21-01-2024 23:00,Resolved
+119,System performance issue,Priya Mehta,Other IT,Low,72,03-01-2024 03:00,,In Progress
+120,Bug in internal tool,Priya Mehta,Software,High,8,06-01-2024 11:00,06-01-2024 16:00,Closed
+121,Monitor flickering,Ravi Kumar,Hardware,High,8,02-02-2024 18:00,03-02-2024 00:00,Closed
+122,Update failure,Anita Reddy,Software,Medium,24,05-03-2024 06:00,06-03-2024 23:00,Resolved
+123,Keyboard not working,Neha Singh,Hardware,Medium,24,14-02-2024 10:00,,Open
+124,Application crash,Suresh Iyer,Software,Low,72,05-03-2024 11:00,06-03-2024 15:00,Closed
+125,Account locked,Vikram Joshi,Access,Medium,24,10-02-2024 01:00,10-02-2024 20:00,Closed
+126,Data recovery request,Pooja Nair,Other IT,Medium,24,24-02-2024 00:00,24-02-2024 14:00,Resolved
+127,Network downtime,Ravi Kumar,Network,Medium,24,08-01-2024 15:00,10-01-2024 11:00,Closed
+128,Role permission issue,Meena Das,Access,Critical,4,02-02-2024 06:00,02-02-2024 14:00,Resolved
+129,LAN cable issue,Karan Patel,Network,Low,72,22-01-2024 18:00,26-01-2024 01:00,Resolved
+130,Slow query performance,Ravi Kumar,Database,High,8,11-02-2024 05:00,11-02-2024 12:00,Resolved
+131,Data recovery request,Amit Sharma,Other IT,Low,72,30-01-2024 04:00,,Open
+132,Access denied to shared folder,Meena Das,Access,Low,72,05-03-2024 13:00,06-03-2024 13:00,Resolved
+133,Email not syncing,Vikram Joshi,Email,High,8,27-02-2024 08:00,,In Progress
+134,New device setup,Suresh Iyer,Other IT,Medium,24,09-01-2024 23:00,,In Progress
+135,VPN access request,Suresh Iyer,Access,High,8,13-01-2024 21:00,,Open
+136,Laptop not booting,Amit Sharma,Hardware,Low,72,12-03-2024 15:00,18-03-2024 02:00,Closed
+137,Unable to send mail,Meena Das,Email,Medium,24,24-02-2024 04:00,,Open
+138,LAN cable issue,Meena Das,Network,High,8,25-01-2024 16:00,26-01-2024 02:00,Closed
+139,System performance issue,Meena Das,Other IT,Medium,24,29-01-2024 17:00,,In Progress
+140,Application crash,Meena Das,Software,Medium,24,08-03-2024 16:00,,Open
+141,Database connection error,Pooja Nair,Database,Critical,4,26-02-2024 09:00,,Open
+142,Network downtime,Karan Patel,Network,Low,72,11-02-2024 16:00,,Open
+143,Unable to connect to printer,Anita Reddy,Printer,Low,72,28-02-2024 15:00,04-03-2024 21:00,Resolved
+144,Application crash,Karan Patel,Software,High,8,06-03-2024 19:00,,Open
+145,Account locked,Priya Mehta,Access,High,8,29-02-2024 20:00,29-02-2024 23:00,Closed
+146,Access denied to shared folder,Vikram Joshi,Access,Medium,24,18-01-2024 12:00,,In Progress
+147,Laptop not booting,Neha Singh,Hardware,Critical,4,25-02-2024 11:00,,In Progress
+148,Email not syncing,Suresh Iyer,Email,High,8,10-02-2024 20:00,11-02-2024 11:00,Resolved
+149,Printer not responding,Priya Mehta,Printer,Medium,24,16-01-2024 13:00,17-01-2024 16:00,Closed
+150,VPN not connecting,Vikram Joshi,Network,High,8,03-02-2024 20:00,04-02-2024 10:00,Resolved
+151,Security alert check,Meena Das,Other IT,Low,72,10-01-2024 11:00,12-01-2024 23:00,Resolved
+152,Unable to connect to printer,Karan Patel,Printer,Low,72,21-03-2024 03:00,,Open
+153,Distribution list request,Amit Sharma,Email,Low,72,05-02-2024 13:00,08-02-2024 08:00,Resolved
+154,Role permission issue,Karan Patel,Access,Critical,4,14-03-2024 06:00,,Open
+155,Bug in internal tool,Ravi Kumar,Software,High,8,10-01-2024 03:00,,In Progress
+156,Slow internet,Vikram Joshi,Network,Medium,24,09-01-2024 06:00,,Open
+157,Unable to connect to printer,Anita Reddy,Printer,Low,72,12-03-2024 01:00,16-03-2024 05:00,Resolved
+158,Low toner issue,Amit Sharma,Printer,Medium,24,27-01-2024 00:00,27-01-2024 21:00,Resolved
+159,Database connection error,Amit Sharma,Database,High,8,10-02-2024 17:00,10-02-2024 21:00,Closed
+160,Role permission issue,Ravi Kumar,Access,Critical,4,28-01-2024 07:00,28-01-2024 10:00,Closed
+161,Network downtime,Priya Mehta,Network,Critical,4,09-03-2024 01:00,09-03-2024 04:00,Closed
+162,VPN access request,Anita Reddy,Access,Critical,4,19-02-2024 20:00,,In Progress
+163,Query timeout,Vikram Joshi,Database,Medium,24,04-03-2024 04:00,,Open
+164,Paper jam,Karan Patel,Printer,Critical,4,31-01-2024 06:00,,Open
+165,System overheating,Ravi Kumar,Hardware,Critical,4,24-02-2024 12:00,,In Progress
+166,Slow internet,Neha Singh,Network,Critical,4,28-02-2024 16:00,,Open
+167,Outlook crash,Neha Singh,Email,Low,72,14-03-2024 11:00,19-03-2024 15:00,Closed
+168,Low toner issue,Karan Patel,Printer,Medium,24,10-01-2024 09:00,11-01-2024 10:00,Closed
+169,Account locked,Suresh Iyer,Access,Low,72,18-02-2024 06:00,19-02-2024 17:00,Closed
+170,Network downtime,Suresh Iyer,Network,High,8,11-02-2024 16:00,12-02-2024 03:00,Resolved
+171,Account locked,Amit Sharma,Access,Medium,24,13-03-2024 02:00,,In Progress
+172,Outlook crash,Meena Das,Email,Medium,24,13-01-2024 02:00,,Open
+173,Security alert check,Suresh Iyer,Other IT,Critical,4,01-03-2024 14:00,,Open
+174,Slow query performance,Neha Singh,Database,Critical,4,12-01-2024 14:00,,In Progress
+175,Role permission issue,Amit Sharma,Access,Medium,24,22-03-2024 18:00,,In Progress
+176,System performance issue,Suresh Iyer,Other IT,Critical,4,14-03-2024 23:00,15-03-2024 05:00,Resolved
+177,LAN cable issue,Vikram Joshi,Network,Critical,4,04-03-2024 04:00,04-03-2024 08:00,Closed
+178,Monitor flickering,Neha Singh,Hardware,Low,72,27-01-2024 18:00,29-01-2024 19:00,Resolved
+179,Bug in internal tool,Pooja Nair,Software,Low,72,09-01-2024 07:00,,In Progress
+180,Distribution list request,Amit Sharma,Email,High,8,11-03-2024 14:00,,In Progress
+181,Low toner issue,Karan Patel,Printer,High,8,19-01-2024 11:00,,In Progress
+182,Account locked,Suresh Iyer,Access,Medium,24,20-02-2024 15:00,,Open
+183,Monitor flickering,Suresh Iyer,Hardware,High,8,23-01-2024 17:00,24-01-2024 08:00,Closed
+184,Slow query performance,Ravi Kumar,Database,High,8,01-03-2024 23:00,02-03-2024 10:00,Closed
+185,Unable to connect to printer,Meena Das,Printer,Low,72,20-02-2024 18:00,25-02-2024 04:00,Resolved
+186,Bug in internal tool,Meena Das,Software,Medium,24,03-02-2024 03:00,,Open
+187,Print queue stuck,Priya Mehta,Printer,Critical,4,23-03-2024 02:00,23-03-2024 09:00,Resolved
+188,Email not syncing,Priya Mehta,Email,Critical,4,11-03-2024 02:00,11-03-2024 03:00,Closed
+189,VPN not connecting,Neha Singh,Network,Medium,24,09-02-2024 06:00,09-02-2024 08:00,Closed
+190,Print queue stuck,Neha Singh,Printer,Low,72,08-03-2024 11:00,,In Progress
+191,Slow internet,Ravi Kumar,Network,Critical,4,28-02-2024 21:00,29-02-2024 02:00,Closed
+192,Password reset required,Vikram Joshi,Access,Medium,24,12-03-2024 07:00,13-03-2024 13:00,Resolved
+193,Monitor flickering,Pooja Nair,Hardware,Medium,24,29-02-2024 20:00,01-03-2024 16:00,Resolved
+194,License expired,Suresh Iyer,Software,Low,72,04-02-2024 13:00,,Open
+195,WiFi unstable,Pooja Nair,Network,High,8,26-02-2024 23:00,,In Progress
+196,Role permission issue,Suresh Iyer,Access,Medium,24,10-03-2024 14:00,,In Progress
+197,Configuration change request,Pooja Nair,Other IT,Medium,24,18-02-2024 01:00,19-02-2024 16:00,Resolved
+198,Slow query performance,Neha Singh,Database,High,8,14-02-2024 06:00,,In Progress
+199,Mouse malfunctioning,Priya Mehta,Hardware,High,8,14-03-2024 05:00,,Open
+200,Database connection error,Neha Singh,Database,High,8,08-03-2024 22:00,,In Progress
+201,Network downtime,Anita Reddy,Network,High,8,09-03-2024 02:00,,In Progress
+202,VPN not connecting,Neha Singh,Network,Medium,24,26-01-2024 01:00,26-01-2024 21:00,Closed
+203,Software installation request,Ravi Kumar,Software,High,8,12-03-2024 02:00,12-03-2024 12:00,Resolved
+204,Outlook crash,Priya Mehta,Email,Medium,24,09-03-2024 15:00,,In Progress
+205,Password reset required,Anita Reddy,Access,Critical,4,13-01-2024 02:00,,In Progress
+206,Keyboard not working,Vikram Joshi,Hardware,Medium,24,28-01-2024 23:00,,In Progress
+207,Spam filter issue,Neha Singh,Email,Low,72,15-02-2024 07:00,18-02-2024 17:00,Resolved
+208,Database connection error,Anita Reddy,Database,Low,72,17-02-2024 03:00,21-02-2024 04:00,Resolved
+209,Paper jam,Ravi Kumar,Printer,Medium,24,16-01-2024 07:00,,Open
+210,Query timeout,Anita Reddy,Database,Low,72,18-01-2024 16:00,24-01-2024 15:00,Resolved
+211,Keyboard not working,Karan Patel,Hardware,High,8,10-03-2024 13:00,,Open
+212,VPN not connecting,Pooja Nair,Network,Critical,4,03-02-2024 01:00,,Open
+213,Outlook crash,Anita Reddy,Email,Critical,4,20-01-2024 22:00,,In Progress
+214,Data recovery request,Amit Sharma,Other IT,High,8,18-02-2024 22:00,,Open
+215,License expired,Karan Patel,Software,High,8,29-01-2024 06:00,29-01-2024 16:00,Closed
+216,Distribution list request,Meena Das,Email,Medium,24,06-03-2024 18:00,,In Progress
+217,Security alert check,Karan Patel,Other IT,High,8,16-01-2024 17:00,,In Progress
+218,Unable to connect to printer,Vikram Joshi,Printer,High,8,10-02-2024 17:00,,Open
+219,Printer not responding,Anita Reddy,Printer,High,8,12-02-2024 20:00,12-02-2024 23:00,Resolved
+220,Paper jam,Vikram Joshi,Printer,High,8,11-01-2024 02:00,11-01-2024 18:00,Resolved
+221,Backup failure,Anita Reddy,Database,Medium,24,02-03-2024 18:00,,In Progress
+222,System overheating,Ravi Kumar,Hardware,Medium,24,05-03-2024 18:00,,In Progress
+223,Slow internet,Anita Reddy,Network,Medium,24,13-01-2024 20:00,14-01-2024 09:00,Closed
+224,Database connection error,Meena Das,Database,Critical,4,13-02-2024 21:00,,Open
+225,Role permission issue,Priya Mehta,Access,Critical,4,09-02-2024 08:00,09-02-2024 11:00,Closed
+226,New device setup,Suresh Iyer,Other IT,Critical,4,22-02-2024 19:00,23-02-2024 01:00,Resolved
+227,Security alert check,Meena Das,Other IT,High,8,17-01-2024 20:00,,In Progress
+228,Laptop not booting,Vikram Joshi,Hardware,Medium,24,12-01-2024 14:00,14-01-2024 05:00,Closed
+229,Configuration change request,Pooja Nair,Other IT,Medium,24,17-02-2024 04:00,,In Progress
+230,Printer not responding,Suresh Iyer,Printer,Critical,4,13-03-2024 13:00,,In Progress
+231,VPN access request,Meena Das,Access,Critical,4,07-01-2024 03:00,07-01-2024 05:00,Resolved
+232,Email not syncing,Ravi Kumar,Email,Low,72,13-02-2024 11:00,17-02-2024 08:00,Resolved
+233,Unable to connect to printer,Pooja Nair,Printer,Low,72,16-01-2024 08:00,,In Progress
+234,LAN cable issue,Karan Patel,Network,Medium,24,14-03-2024 22:00,16-03-2024 13:00,Resolved
+235,Keyboard not working,Ravi Kumar,Hardware,Medium,24,07-01-2024 16:00,,In Progress
+236,Low toner issue,Meena Das,Printer,Critical,4,20-01-2024 08:00,,Open
+237,Distribution list request,Suresh Iyer,Email,Critical,4,23-03-2024 22:00,24-03-2024 02:00,Closed
+238,Distribution list request,Vikram Joshi,Email,High,8,12-01-2024 17:00,12-01-2024 21:00,Resolved
+239,Slow query performance,Priya Mehta,Database,Low,72,22-02-2024 03:00,27-02-2024 04:00,Closed
+240,Keyboard not working,Priya Mehta,Hardware,High,8,14-01-2024 17:00,15-01-2024 09:00,Closed
+241,Bug in internal tool,Suresh Iyer,Software,Low,72,10-01-2024 05:00,,Open
+242,Account locked,Suresh Iyer,Access,Low,72,04-03-2024 09:00,,In Progress
+243,New device setup,Suresh Iyer,Other IT,Medium,24,12-01-2024 14:00,13-01-2024 12:00,Closed
+244,Slow query performance,Meena Das,Database,Critical,4,29-02-2024 07:00,29-02-2024 14:00,Resolved
+245,VPN access request,Pooja Nair,Access,High,8,04-02-2024 14:00,,In Progress
+246,Low toner issue,Meena Das,Printer,Critical,4,10-02-2024 23:00,,Open
+247,Mouse malfunctioning,Neha Singh,Hardware,High,8,07-03-2024 06:00,07-03-2024 08:00,Resolved
+248,Database connection error,Anita Reddy,Database,Medium,24,25-02-2024 19:00,26-02-2024 16:00,Resolved
+249,Unable to send mail,Priya Mehta,Email,Low,72,09-01-2024 01:00,09-01-2024 09:00,Closed
+250,Distribution list request,Karan Patel,Email,Critical,4,03-02-2024 13:00,,In Progress
+251,WiFi unstable,Meena Das,Network,Critical,4,21-02-2024 19:00,21-02-2024 21:00,Closed
+252,Account locked,Vikram Joshi,Access,Critical,4,27-01-2024 02:00,,In Progress
+253,LAN cable issue,Suresh Iyer,Network,Low,72,10-02-2024 18:00,10-02-2024 20:00,Closed
+254,Query timeout,Meena Das,Database,Medium,24,15-01-2024 02:00,,In Progress
+255,Bug in internal tool,Neha Singh,Software,Medium,24,03-02-2024 15:00,,In Progress
+256,Paper jam,Meena Das,Printer,Medium,24,12-01-2024 22:00,13-01-2024 14:00,Closed
+257,Password reset required,Vikram Joshi,Access,High,8,19-03-2024 14:00,,Open
+258,Bug in internal tool,Vikram Joshi,Software,Low,72,19-01-2024 18:00,22-01-2024 04:00,Closed
+259,WiFi unstable,Ravi Kumar,Network,Low,72,18-01-2024 04:00,,In Progress
+260,Paper jam,Meena Das,Printer,Critical,4,31-01-2024 20:00,31-01-2024 22:00,Resolved
+261,Printer not responding,Neha Singh,Printer,High,8,27-01-2024 12:00,,Open
+262,Keyboard not working,Vikram Joshi,Hardware,Medium,24,29-02-2024 10:00,,In Progress
+263,Query timeout,Neha Singh,Database,Low,72,19-03-2024 20:00,21-03-2024 16:00,Closed
+264,Network downtime,Anita Reddy,Network,High,8,07-03-2024 15:00,07-03-2024 16:00,Closed
+265,Keyboard not working,Pooja Nair,Hardware,Medium,24,17-02-2024 07:00,17-02-2024 16:00,Resolved
+266,License expired,Anita Reddy,Software,Low,72,06-01-2024 13:00,08-01-2024 19:00,Closed
+267,Distribution list request,Ravi Kumar,Email,High,8,05-01-2024 12:00,05-01-2024 14:00,Closed
+268,Spam filter issue,Vikram Joshi,Email,Low,72,21-02-2024 10:00,,In Progress
+269,LAN cable issue,Anita Reddy,Network,Medium,24,09-01-2024 20:00,11-01-2024 17:00,Resolved
+270,Slow query performance,Karan Patel,Database,Critical,4,16-03-2024 02:00,,In Progress
+271,Print queue stuck,Vikram Joshi,Printer,Low,72,17-02-2024 21:00,,Open
+272,Printer not responding,Suresh Iyer,Printer,Critical,4,07-01-2024 12:00,,Open
+273,DB user locked,Meena Das,Database,Medium,24,21-01-2024 07:00,22-01-2024 18:00,Resolved
+274,Network downtime,Pooja Nair,Network,High,8,20-03-2024 08:00,,In Progress
+275,Data recovery request,Karan Patel,Other IT,Medium,24,18-01-2024 11:00,20-01-2024 08:00,Closed
+276,Database connection error,Priya Mehta,Database,Medium,24,08-01-2024 19:00,,Open
+277,Slow query performance,Karan Patel,Database,Medium,24,17-03-2024 21:00,,In Progress
+278,Mouse malfunctioning,Priya Mehta,Hardware,Medium,24,16-01-2024 19:00,,In Progress
+279,Query timeout,Anita Reddy,Database,Low,72,19-02-2024 16:00,21-02-2024 11:00,Resolved
+280,System overheating,Anita Reddy,Hardware,High,8,23-02-2024 11:00,,In Progress
+281,Role permission issue,Anita Reddy,Access,Critical,4,08-01-2024 21:00,,Open
+282,Monitor flickering,Vikram Joshi,Hardware,Medium,24,08-03-2024 21:00,,In Progress
+283,Update failure,Ravi Kumar,Software,High,8,21-03-2024 04:00,,Open
+284,Role permission issue,Pooja Nair,Access,Low,72,23-01-2024 08:00,,Open
+285,Update failure,Karan Patel,Software,High,8,24-02-2024 01:00,,In Progress
+286,Outlook crash,Priya Mehta,Email,Low,72,01-03-2024 08:00,07-03-2024 01:00,Resolved
+287,Outlook crash,Vikram Joshi,Email,Medium,24,02-01-2024 08:00,03-01-2024 03:00,Resolved
+288,Query timeout,Ravi Kumar,Database,Medium,24,13-02-2024 23:00,14-02-2024 08:00,Closed
+289,Bug in internal tool,Karan Patel,Software,Critical,4,10-03-2024 16:00,,Open
+290,Network downtime,Ravi Kumar,Network,Medium,24,15-01-2024 13:00,,Open
+291,Backup failure,Meena Das,Database,High,8,19-01-2024 18:00,20-01-2024 08:00,Resolved
+292,New device setup,Karan Patel,Other IT,High,8,19-01-2024 19:00,20-01-2024 02:00,Closed
+293,Laptop not booting,Amit Sharma,Hardware,Medium,24,01-02-2024 15:00,02-02-2024 20:00,Resolved
+294,Unable to connect to printer,Neha Singh,Printer,Medium,24,23-03-2024 01:00,,In Progress
+295,Network downtime,Vikram Joshi,Network,Medium,24,07-03-2024 09:00,,Open
+296,Low toner issue,Priya Mehta,Printer,Critical,4,13-03-2024 02:00,,Open
+297,Password reset required,Priya Mehta,Access,High,8,02-01-2024 23:00,,In Progress
+298,Network downtime,Ravi Kumar,Network,Low,72,27-02-2024 11:00,01-03-2024 12:00,Closed
+299,Laptop not booting,Amit Sharma,Hardware,Critical,4,20-02-2024 19:00,,In Progress
+300,Keyboard not working,Vikram Joshi,Hardware,High,8,02-01-2024 09:00,,In Progress
+301,New device setup,Meena Das,Other IT,Medium,24,03-02-2024 17:00,,In Progress
+302,Network downtime,Pooja Nair,Network,High,8,02-01-2024 01:00,02-01-2024 12:00,Resolved
+303,Unable to send mail,Ravi Kumar,Email,Medium,24,11-01-2024 14:00,12-01-2024 17:00,Closed
+304,Unable to connect to printer,Ravi Kumar,Printer,Low,72,08-02-2024 09:00,11-02-2024 18:00,Closed
+305,Distribution list request,Meena Das,Email,Low,72,13-03-2024 21:00,,Open
+306,Paper jam,Suresh Iyer,Printer,Critical,4,09-03-2024 05:00,,In Progress
+307,LAN cable issue,Vikram Joshi,Network,Critical,4,15-03-2024 23:00,16-03-2024 00:00,Resolved
+308,DB user locked,Pooja Nair,Database,Medium,24,18-01-2024 03:00,,Open
+309,LAN cable issue,Pooja Nair,Network,Medium,24,26-02-2024 21:00,,Open
+310,Account locked,Ravi Kumar,Access,Critical,4,13-03-2024 12:00,13-03-2024 14:00,Resolved
+311,System overheating,Karan Patel,Hardware,High,8,23-01-2024 13:00,23-01-2024 16:00,Closed
+312,VPN not connecting,Priya Mehta,Network,Medium,24,26-02-2024 09:00,27-02-2024 12:00,Resolved
+313,Paper jam,Karan Patel,Printer,Low,72,09-02-2024 17:00,10-02-2024 12:00,Closed
+314,License expired,Pooja Nair,Software,Critical,4,12-01-2024 06:00,12-01-2024 13:00,Closed
+315,Query timeout,Neha Singh,Database,High,8,26-02-2024 19:00,27-02-2024 02:00,Resolved
+316,VPN not connecting,Karan Patel,Network,High,8,10-02-2024 11:00,11-02-2024 01:00,Resolved
+317,New device setup,Suresh Iyer,Other IT,High,8,27-01-2024 05:00,,In Progress
+318,Paper jam,Pooja Nair,Printer,Critical,4,14-02-2024 21:00,,In Progress
+319,Unable to send mail,Anita Reddy,Email,Medium,24,09-02-2024 00:00,09-02-2024 13:00,Closed
+320,LAN cable issue,Suresh Iyer,Network,Low,72,12-01-2024 00:00,15-01-2024 15:00,Resolved
+321,Unable to send mail,Pooja Nair,Email,Low,72,06-03-2024 05:00,,In Progress
+322,Mouse malfunctioning,Priya Mehta,Hardware,Critical,4,20-02-2024 23:00,,Open
+323,Laptop not booting,Pooja Nair,Hardware,Low,72,21-01-2024 15:00,25-01-2024 21:00,Resolved
+324,Backup failure,Pooja Nair,Database,Medium,24,13-01-2024 22:00,15-01-2024 09:00,Resolved
+325,Account locked,Vikram Joshi,Access,Low,72,29-02-2024 02:00,,In Progress
+326,Distribution list request,Anita Reddy,Email,Low,72,15-01-2024 00:00,,Open
+327,Network downtime,Vikram Joshi,Network,High,8,21-01-2024 16:00,21-01-2024 22:00,Resolved
+328,Data recovery request,Ravi Kumar,Other IT,High,8,20-03-2024 23:00,,Open
+329,WiFi unstable,Amit Sharma,Network,Medium,24,16-03-2024 12:00,,Open
+330,New device setup,Anita Reddy,Other IT,Critical,4,16-01-2024 01:00,,Open
+331,Role permission issue,Anita Reddy,Access,High,8,04-03-2024 01:00,04-03-2024 02:00,Resolved
+332,License expired,Pooja Nair,Software,High,8,24-03-2024 13:00,24-03-2024 21:00,Resolved
+333,VPN access request,Priya Mehta,Access,High,8,17-01-2024 14:00,,In Progress
+334,Bug in internal tool,Priya Mehta,Software,High,8,06-01-2024 18:00,06-01-2024 19:00,Closed
+335,Access denied to shared folder,Karan Patel,Access,Medium,24,09-03-2024 16:00,10-03-2024 12:00,Resolved
+336,Unable to connect to printer,Ravi Kumar,Printer,Medium,24,14-03-2024 02:00,14-03-2024 14:00,Resolved
+337,Access denied to shared folder,Anita Reddy,Access,Critical,4,25-02-2024 21:00,,In Progress
+338,Email not syncing,Meena Das,Email,Critical,4,03-03-2024 15:00,,Open
+339,Distribution list request,Neha Singh,Email,High,8,03-01-2024 19:00,04-01-2024 04:00,Resolved
+340,Bug in internal tool,Anita Reddy,Software,Low,72,11-01-2024 00:00,,In Progress
+341,Paper jam,Amit Sharma,Printer,Low,72,09-03-2024 23:00,15-03-2024 07:00,Resolved
+342,VPN access request,Meena Das,Access,Medium,24,20-01-2024 05:00,22-01-2024 05:00,Resolved
+343,Configuration change request,Pooja Nair,Other IT,High,8,13-01-2024 07:00,,Open
+344,Software installation request,Ravi Kumar,Software,Low,72,11-03-2024 01:00,14-03-2024 00:00,Closed
+345,Bug in internal tool,Anita Reddy,Software,High,8,28-01-2024 21:00,,Open
+346,Printer not responding,Suresh Iyer,Printer,Medium,24,31-01-2024 20:00,,Open
+347,LAN cable issue,Priya Mehta,Network,Medium,24,10-01-2024 01:00,,In Progress
+348,Account locked,Vikram Joshi,Access,Critical,4,23-03-2024 19:00,,In Progress
+349,Print queue stuck,Vikram Joshi,Printer,Medium,24,04-01-2024 16:00,04-01-2024 22:00,Resolved
+350,Access denied to shared folder,Amit Sharma,Access,High,8,28-01-2024 07:00,,In Progress
+351,Unable to connect to printer,Amit Sharma,Printer,Medium,24,19-01-2024 03:00,,In Progress
+352,Low toner issue,Meena Das,Printer,High,8,03-02-2024 20:00,,In Progress
+353,Configuration change request,Pooja Nair,Other IT,High,8,12-02-2024 09:00,12-02-2024 18:00,Resolved
+354,WiFi unstable,Karan Patel,Network,High,8,03-02-2024 02:00,,Open
+355,WiFi unstable,Amit Sharma,Network,Low,72,14-02-2024 07:00,,In Progress
+356,Access denied to shared folder,Meena Das,Access,Low,72,01-03-2024 17:00,,In Progress
+357,VPN not connecting,Amit Sharma,Network,Low,72,21-03-2024 14:00,23-03-2024 12:00,Resolved
+358,Spam filter issue,Amit Sharma,Email,High,8,01-03-2024 11:00,01-03-2024 21:00,Resolved
+359,VPN access request,Meena Das,Access,Medium,24,24-01-2024 19:00,26-01-2024 08:00,Closed
+360,Distribution list request,Anita Reddy,Email,Critical,4,04-02-2024 21:00,,In Progress
+361,Outlook crash,Vikram Joshi,Email,Medium,24,02-01-2024 04:00,,Open
+362,System performance issue,Amit Sharma,Other IT,Critical,4,29-02-2024 01:00,,In Progress
+363,New device setup,Vikram Joshi,Other IT,Medium,24,29-02-2024 01:00,,In Progress
+364,Printer not responding,Pooja Nair,Printer,Low,72,20-01-2024 01:00,,Open
+365,Keyboard not working,Amit Sharma,Hardware,High,8,12-01-2024 07:00,,In Progress
+366,Spam filter issue,Meena Das,Email,Medium,24,02-01-2024 19:00,04-01-2024 07:00,Closed
+367,Slow internet,Priya Mehta,Network,Critical,4,06-02-2024 07:00,06-02-2024 12:00,Resolved
+368,DB user locked,Meena Das,Database,Critical,4,19-01-2024 22:00,,Open
+369,Account locked,Amit Sharma,Access,Medium,24,03-01-2024 22:00,05-01-2024 10:00,Closed
+370,Access denied to shared folder,Neha Singh,Access,Medium,24,04-03-2024 21:00,06-03-2024 16:00,Closed
+371,Low toner issue,Priya Mehta,Printer,Critical,4,01-03-2024 07:00,01-03-2024 08:00,Resolved
+372,Database connection error,Neha Singh,Database,Critical,4,25-01-2024 02:00,,In Progress
+373,Paper jam,Amit Sharma,Printer,High,8,02-02-2024 20:00,,In Progress
+374,Role permission issue,Neha Singh,Access,Medium,24,17-03-2024 01:00,,Open
+375,Update failure,Neha Singh,Software,Medium,24,16-01-2024 11:00,,Open
+376,Laptop not booting,Suresh Iyer,Hardware,Critical,4,04-01-2024 23:00,,Open
+377,Keyboard not working,Neha Singh,Hardware,Critical,4,03-01-2024 12:00,03-01-2024 19:00,Closed
+378,Low toner issue,Ravi Kumar,Printer,High,8,09-03-2024 22:00,,Open
+379,Configuration change request,Neha Singh,Other IT,Medium,24,13-02-2024 02:00,13-02-2024 10:00,Closed
+380,Unable to send mail,Amit Sharma,Email,High,8,04-02-2024 22:00,05-02-2024 04:00,Closed
+381,Slow query performance,Karan Patel,Database,Low,72,03-02-2024 20:00,,In Progress
+382,Print queue stuck,Pooja Nair,Printer,Low,72,28-01-2024 12:00,,Open
+383,Keyboard not working,Pooja Nair,Hardware,Low,72,09-02-2024 21:00,,Open
+384,Print queue stuck,Karan Patel,Printer,Critical,4,31-01-2024 20:00,,Open
+385,Configuration change request,Suresh Iyer,Other IT,Critical,4,25-01-2024 22:00,,In Progress
+386,Application crash,Suresh Iyer,Software,Medium,24,11-01-2024 20:00,,In Progress
+387,Account locked,Vikram Joshi,Access,Low,72,18-02-2024 20:00,,In Progress
+388,System performance issue,Suresh Iyer,Other IT,Critical,4,13-01-2024 09:00,13-01-2024 14:00,Closed
+389,Database connection error,Priya Mehta,Database,Low,72,23-01-2024 15:00,,In Progress
+390,Access denied to shared folder,Pooja Nair,Access,Critical,4,21-02-2024 13:00,,In Progress
+391,Slow query performance,Neha Singh,Database,Medium,24,11-02-2024 04:00,12-02-2024 16:00,Closed
+392,Bug in internal tool,Amit Sharma,Software,Low,72,13-03-2024 19:00,18-03-2024 16:00,Resolved
+393,Backup failure,Vikram Joshi,Database,High,8,25-02-2024 17:00,25-02-2024 19:00,Resolved
+394,Print queue stuck,Amit Sharma,Printer,High,8,20-03-2024 17:00,20-03-2024 22:00,Closed
+395,Backup failure,Neha Singh,Database,Medium,24,15-01-2024 07:00,,Open
+396,Print queue stuck,Neha Singh,Printer,Low,72,04-01-2024 04:00,,Open
+397,System performance issue,Amit Sharma,Other IT,Low,72,26-02-2024 00:00,02-03-2024 10:00,Closed
+398,Email not syncing,Pooja Nair,Email,Low,72,19-01-2024 18:00,25-01-2024 07:00,Closed
+399,VPN access request,Anita Reddy,Access,High,8,25-02-2024 01:00,25-02-2024 12:00,Closed
+400,Security alert check,Ravi Kumar,Other IT,High,8,17-03-2024 00:00,17-03-2024 08:00,Resolved
+401,License expired,Ravi Kumar,Software,Critical,4,29-02-2024 12:00,,Open
+402,Laptop not booting,Priya Mehta,Hardware,High,8,30-01-2024 04:00,30-01-2024 09:00,Closed
+403,DB user locked,Suresh Iyer,Database,High,8,17-01-2024 06:00,17-01-2024 18:00,Resolved
+404,Outlook crash,Anita Reddy,Email,High,8,22-02-2024 01:00,22-02-2024 06:00,Closed
+405,Bug in internal tool,Neha Singh,Software,Medium,24,11-01-2024 03:00,,Open
+406,System performance issue,Amit Sharma,Other IT,Critical,4,16-03-2024 12:00,,Open
+407,License expired,Priya Mehta,Software,Medium,24,16-01-2024 23:00,18-01-2024 14:00,Closed
+408,Security alert check,Priya Mehta,Other IT,High,8,26-01-2024 06:00,,Open
+409,Update failure,Ravi Kumar,Software,Low,72,14-01-2024 22:00,19-01-2024 04:00,Closed
+410,Monitor flickering,Anita Reddy,Hardware,Critical,4,07-02-2024 18:00,,In Progress
+411,Laptop not booting,Pooja Nair,Hardware,High,8,09-03-2024 14:00,10-03-2024 03:00,Closed
+412,Unable to send mail,Karan Patel,Email,Low,72,17-02-2024 00:00,22-02-2024 12:00,Resolved
+413,Configuration change request,Pooja Nair,Other IT,Low,72,05-01-2024 17:00,06-01-2024 17:00,Closed
+414,Distribution list request,Karan Patel,Email,Medium,24,12-02-2024 07:00,,Open
+415,Role permission issue,Anita Reddy,Access,Low,72,11-01-2024 21:00,,Open
+416,Printer not responding,Ravi Kumar,Printer,Critical,4,08-01-2024 11:00,,In Progress
+417,Unable to send mail,Vikram Joshi,Email,High,8,17-02-2024 13:00,17-02-2024 22:00,Resolved
+418,Password reset required,Amit Sharma,Access,Critical,4,28-01-2024 17:00,,Open
+419,Password reset required,Karan Patel,Access,High,8,18-03-2024 02:00,18-03-2024 13:00,Resolved
+420,Monitor flickering,Priya Mehta,Hardware,Critical,4,20-02-2024 13:00,20-02-2024 15:00,Resolved
+421,Laptop not booting,Meena Das,Hardware,Low,72,19-02-2024 21:00,,Open
+422,Update failure,Ravi Kumar,Software,Critical,4,02-03-2024 11:00,02-03-2024 19:00,Closed
+423,VPN not connecting,Ravi Kumar,Network,Critical,4,15-02-2024 11:00,15-02-2024 12:00,Closed
+424,Laptop not booting,Neha Singh,Hardware,Critical,4,29-02-2024 18:00,29-02-2024 21:00,Closed
+425,Update failure,Karan Patel,Software,Critical,4,01-03-2024 14:00,01-03-2024 19:00,Closed
+426,Slow internet,Vikram Joshi,Network,Medium,24,09-02-2024 13:00,10-02-2024 10:00,Closed
+427,WiFi unstable,Meena Das,Network,Critical,4,29-02-2024 04:00,29-02-2024 07:00,Closed
+428,Data recovery request,Pooja Nair,Other IT,Critical,4,11-02-2024 12:00,11-02-2024 14:00,Resolved
+429,Application crash,Suresh Iyer,Software,Critical,4,06-02-2024 21:00,,Open
+430,Low toner issue,Karan Patel,Printer,Low,72,28-01-2024 16:00,,Open
+431,Software installation request,Anita Reddy,Software,High,8,21-01-2024 03:00,21-01-2024 13:00,Resolved
+432,Slow query performance,Ravi Kumar,Database,Critical,4,23-03-2024 17:00,23-03-2024 21:00,Closed
+433,Paper jam,Anita Reddy,Printer,Medium,24,17-02-2024 18:00,,In Progress
+434,Unable to connect to printer,Anita Reddy,Printer,Low,72,25-02-2024 22:00,02-03-2024 17:00,Closed
+435,Update failure,Neha Singh,Software,Medium,24,04-03-2024 18:00,05-03-2024 15:00,Closed
+436,Unable to connect to printer,Pooja Nair,Printer,Medium,24,11-01-2024 02:00,,In Progress
+437,System performance issue,Karan Patel,Other IT,Low,72,20-03-2024 06:00,23-03-2024 15:00,Resolved
+438,Bug in internal tool,Pooja Nair,Software,Low,72,31-01-2024 00:00,01-02-2024 15:00,Resolved
+439,Printer not responding,Vikram Joshi,Printer,High,8,30-01-2024 16:00,,In Progress
+440,Unable to connect to printer,Neha Singh,Printer,Low,72,26-02-2024 12:00,,Open
+441,Laptop not booting,Suresh Iyer,Hardware,Critical,4,20-01-2024 09:00,,Open
+442,Unable to send mail,Meena Das,Email,Low,72,16-03-2024 07:00,19-03-2024 08:00,Closed
+443,DB user locked,Priya Mehta,Database,Medium,24,06-02-2024 13:00,07-02-2024 19:00,Closed
+444,Print queue stuck,Meena Das,Printer,Critical,4,29-02-2024 09:00,29-02-2024 16:00,Resolved
+445,License expired,Karan Patel,Software,Medium,24,13-03-2024 21:00,15-03-2024 09:00,Resolved
+446,Bug in internal tool,Pooja Nair,Software,Medium,24,27-02-2024 09:00,28-02-2024 15:00,Resolved
+447,Email not syncing,Meena Das,Email,High,8,02-03-2024 12:00,,In Progress
+448,DB user locked,Neha Singh,Database,Medium,24,07-02-2024 12:00,07-02-2024 16:00,Resolved
+449,Database connection error,Suresh Iyer,Database,Medium,24,10-03-2024 07:00,10-03-2024 19:00,Resolved
+450,VPN not connecting,Meena Das,Network,Critical,4,06-02-2024 21:00,,Open
+451,Distribution list request,Karan Patel,Email,High,8,03-02-2024 11:00,03-02-2024 18:00,Resolved
+452,Unable to send mail,Pooja Nair,Email,Medium,24,14-01-2024 18:00,15-01-2024 12:00,Resolved
+453,Backup failure,Ravi Kumar,Database,Medium,24,16-03-2024 00:00,16-03-2024 11:00,Closed
+454,Database connection error,Vikram Joshi,Database,Critical,4,09-01-2024 15:00,09-01-2024 23:00,Resolved
+455,System overheating,Anita Reddy,Hardware,High,8,22-02-2024 22:00,23-02-2024 05:00,Resolved
+456,Slow internet,Ravi Kumar,Network,Critical,4,04-01-2024 11:00,,In Progress
+457,Backup failure,Amit Sharma,Database,Critical,4,07-03-2024 19:00,,In Progress
+458,System performance issue,Anita Reddy,Other IT,Critical,4,17-01-2024 02:00,17-01-2024 03:00,Resolved
+459,Slow query performance,Karan Patel,Database,Critical,4,07-01-2024 18:00,,In Progress
+460,Unable to send mail,Pooja Nair,Email,Medium,24,09-02-2024 03:00,,Open
+461,Keyboard not working,Neha Singh,Hardware,High,8,25-02-2024 07:00,,In Progress
+462,Outlook crash,Anita Reddy,Email,Critical,4,17-02-2024 05:00,17-02-2024 12:00,Resolved
+463,Backup failure,Karan Patel,Database,Low,72,28-02-2024 20:00,,In Progress
+464,Security alert check,Anita Reddy,Other IT,Critical,4,26-02-2024 10:00,26-02-2024 18:00,Resolved
+465,VPN not connecting,Vikram Joshi,Network,Medium,24,01-02-2024 19:00,,In Progress
+466,DB user locked,Karan Patel,Database,High,8,20-03-2024 01:00,,In Progress
+467,Monitor flickering,Amit Sharma,Hardware,High,8,20-02-2024 11:00,20-02-2024 21:00,Closed
+468,Low toner issue,Suresh Iyer,Printer,Critical,4,17-02-2024 00:00,17-02-2024 08:00,Closed
+469,DB user locked,Suresh Iyer,Database,High,8,18-02-2024 22:00,19-02-2024 07:00,Resolved
+470,LAN cable issue,Meena Das,Network,Low,72,23-01-2024 01:00,,In Progress
+471,Distribution list request,Neha Singh,Email,Medium,24,12-03-2024 11:00,13-03-2024 14:00,Closed
+472,Paper jam,Amit Sharma,Printer,Low,72,05-01-2024 10:00,,Open
+473,New device setup,Neha Singh,Other IT,Medium,24,04-02-2024 15:00,,In Progress
+474,System overheating,Neha Singh,Hardware,Critical,4,19-02-2024 10:00,19-02-2024 15:00,Closed
+475,DB user locked,Ravi Kumar,Database,Critical,4,18-03-2024 20:00,19-03-2024 00:00,Resolved
+476,License expired,Vikram Joshi,Software,High,8,09-03-2024 00:00,,Open
+477,Software installation request,Karan Patel,Software,Low,72,10-01-2024 21:00,13-01-2024 01:00,Closed
+478,Unable to connect to printer,Pooja Nair,Printer,High,8,09-02-2024 11:00,,Open
+479,Software installation request,Meena Das,Software,High,8,28-01-2024 02:00,28-01-2024 12:00,Closed
+480,Database connection error,Karan Patel,Database,Critical,4,12-02-2024 16:00,12-02-2024 22:00,Closed
+481,Database connection error,Neha Singh,Database,High,8,02-01-2024 14:00,,In Progress
+482,Software installation request,Vikram Joshi,Software,Low,72,13-01-2024 03:00,15-01-2024 19:00,Resolved
+483,Slow internet,Suresh Iyer,Network,Medium,24,17-01-2024 05:00,,Open
+484,Account locked,Suresh Iyer,Access,High,8,20-01-2024 03:00,,Open
+485,Laptop not booting,Pooja Nair,Hardware,Low,72,12-01-2024 09:00,,Open
+486,Paper jam,Neha Singh,Printer,Critical,4,21-01-2024 07:00,21-01-2024 10:00,Closed
+487,System overheating,Neha Singh,Hardware,Critical,4,17-01-2024 18:00,17-01-2024 23:00,Closed
+488,System overheating,Karan Patel,Hardware,High,8,07-02-2024 22:00,08-02-2024 03:00,Resolved
+489,System performance issue,Vikram Joshi,Other IT,Medium,24,21-02-2024 17:00,,In Progress
+490,Unable to send mail,Pooja Nair,Email,High,8,14-01-2024 21:00,,Open
+491,Low toner issue,Priya Mehta,Printer,Medium,24,06-03-2024 11:00,07-03-2024 19:00,Resolved
+492,Outlook crash,Anita Reddy,Email,Critical,4,04-03-2024 07:00,04-03-2024 10:00,Closed
+493,Security alert check,Vikram Joshi,Other IT,Medium,24,18-03-2024 09:00,18-03-2024 22:00,Resolved
+494,VPN access request,Ravi Kumar,Access,Medium,24,27-01-2024 04:00,,Open
+495,New device setup,Suresh Iyer,Other IT,Low,72,07-01-2024 18:00,08-01-2024 11:00,Closed
+496,Distribution list request,Neha Singh,Email,Low,72,14-03-2024 04:00,17-03-2024 16:00,Closed
+497,Access denied to shared folder,Anita Reddy,Access,Medium,24,21-03-2024 15:00,23-03-2024 07:00,Resolved
+498,Access denied to shared folder,Meena Das,Access,High,8,11-02-2024 02:00,,In Progress
+499,Paper jam,Neha Singh,Printer,Medium,24,11-02-2024 14:00,12-02-2024 19:00,Resolved
+500,Mouse malfunctioning,Karan Patel,Hardware,Low,72,17-02-2024 10:00,19-02-2024 18:00,Closed

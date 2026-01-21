@@ -1,0 +1,1 @@
+SHOW INDEXES FROM tickets_file_t;
